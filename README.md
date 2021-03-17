@@ -2,12 +2,12 @@
 
 ## 双周文献分享会流程 Bi-week Literature review meeting
 
-### 挑选文献
+**挑选文献**
 
-### 准备PPT
+**准备PPT**
 至少排练3-5次
 
-### 分享会当天
+**分享会当天**
 
 早上把你要分享的文献邮件和前情摘要用你在组里登记的邮箱发送至组里的邮件列表<ssrlab_tbsi@sz.tsinghua.edu.cn>
 
@@ -35,10 +35,10 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 ### 购买实验用设备报销
 
-#### 单件/单笔 1000元以上
+**单件/单笔 1000元以上**
     请联系邱康琪老师协助购买
 
-#### 单件/单笔 1000元以下
+**单件/单笔 1000元以下**
 
     先把要购买的材料/设备列清单给李胜男老师检查，胜男老师会告诉你购买时的开票抬头，一般情况下是这个：
     
@@ -52,32 +52,28 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 ## 打印机使用
 
-在实验室内网访问这个地址可获得连接方法
-
-http://10.8.4.170/wiki/index.php/%E6%89%93%E5%8D%B0%E6%9C%BA
+在实验室内网访问[这个地址](http://10.8.4.170/wiki/index.php/%E6%89%93%E5%8D%B0%E6%9C%BA)可获得连接方法
 
 实验室打印机的型号是 HP LaserJet Pro MFP M226dw A02A63 ，可以扫描、复印和打印。扫描和打印可以使用 U 盘来完成。 打印机的内网地址是 http://10.8.31.90/ 。 如果想从电脑打印和扫描到电脑，电脑上要先安装 [驱动](https://support.hp.com/in-en/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)，官方驱动支持各种操作系统。Mac Big Sur系统会导致旧版本驱动报错，可参考https://support.hp.com/us-en/document/c06960563更新驱动。
 
-**另外，2C 实验室的 Wiki 是 http://10.8.4.170/
-**
+**另外，2C 实验室的 Wiki 是 http://10.8.4.170/**
 
 ## 服务器使用
 
 ### Ubuntu服务器
 
 Please book your server usage before you start run your program on the group server. Find the "Server booking" sheet on the provided link and follow the "Rule of usage". 
-这个文档的 Server booking
-https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
+[这个文档的 Server booking](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3)
 
 #### Server 上的 Matlab 的使用
 
 如需在自己的账户下使用matlab, 请执行以下操作激活
 
-1- 在终端中输入<sh /usr/local/MATLAB/R2020b/bin/activate_matlab.sh> 进入图形化界面中进行激活
+1 - 在终端中输入<sh /usr/local/MATLAB/R2020b/bin/activate_matlab.sh> 进入图形化界面中进行激活
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48d0620d-51b0-40fd-8c5e-595aaf4e28d9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48d0620d-51b0-40fd-8c5e-595aaf4e28d9/Untitled.png)
+![图形化界面](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48d0620d-51b0-40fd-8c5e-595aaf4e28d9/Untitled.png)
 
-2- 创建 MathWorks 账户（如果已经有清华邮箱注册的账户可以跳过这一步）
+2 - 创建 MathWorks 账户（如果已经有清华邮箱注册的账户可以跳过这一步）
 
 如果没有账户， 请选择创建 MathWorks 帐户(需要激活密钥) 选项，然后点击下
 
@@ -85,14 +81,14 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e062bf05-7943-4d36-a058-5bd5f7beb785/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e062bf05-7943-4d36-a058-5bd5f7beb785/Untitled.png)
 
-3- 输入账户名和密码进行激活
+3 - 输入账户名和密码进行激活
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5dcd4c2-8cb8-487c-a21e-ce24c98ebd79/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5dcd4c2-8cb8-487c-a21e-ce24c98ebd79/Untitled.png)
+![输入账户名和密码进行激活](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5dcd4c2-8cb8-487c-a21e-ce24c98ebd79/Untitled.png)
 
 - 请输入清华大学的邮箱(后缀包含 tsinghua.edu.cn)
 - 请输入清华大学的激活秘钥： 14424-72896-03232-76342-99442
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3cec7e4c-9046-4621-b9b4-49206d4a5bc2/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3cec7e4c-9046-4621-b9b4-49206d4a5bc2/Untitled.png)
+![激活](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3cec7e4c-9046-4621-b9b4-49206d4a5bc2/Untitled.png)
 
 If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao
 
@@ -103,5 +99,4 @@ If you have any question regarding Ubuntu server usage, please contact Zihan.
 ## 实验设备使用
 
 ### 实验室值日排班表
-这个文档的Lab duty schedule 包含每周负责值日的2位同学和大致任务分工。
-https://docs.qq.com/sheet/DU3l6U1VtTXB4b3hG
+[这个文档的Lab duty schedule] (https://docs.qq.com/sheet/DU3l6U1VtTXB4b3hG)包含每周负责值日的2位同学和大致任务分工。
