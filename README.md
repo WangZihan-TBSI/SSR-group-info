@@ -58,7 +58,8 @@ http://10.8.4.170/wiki/index.php/%E6%89%93%E5%8D%B0%E6%9C%BA
 
 实验室打印机的型号是 HP LaserJet Pro MFP M226dw A02A63 ，可以扫描、复印和打印。扫描和打印可以使用 U 盘来完成。 打印机的内网地址是 http://10.8.31.90/ 。 如果想从电脑打印和扫描到电脑，电脑上要先安装 [驱动](https://support.hp.com/in-en/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)，官方驱动支持各种操作系统。Mac Big Sur系统会导致旧版本驱动报错，可参考https://support.hp.com/us-en/document/c06960563更新驱动。
 
-### 另外 2C 实验室的 Wiki 是 http://10.8.4.170/
+**另外，2C 实验室的 Wiki 是 http://10.8.4.170/
+**
 
 ## 服务器使用
 
@@ -72,11 +73,11 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 如需在自己的账户下使用matlab, 请执行以下操作激活
 
-1 在终端中输入<sh /usr/local/MATLAB/R2020b/bin/activate_matlab.sh> 进入图形化界面中进行激活
+1- 在终端中输入<sh /usr/local/MATLAB/R2020b/bin/activate_matlab.sh> 进入图形化界面中进行激活
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48d0620d-51b0-40fd-8c5e-595aaf4e28d9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48d0620d-51b0-40fd-8c5e-595aaf4e28d9/Untitled.png)
 
-2 创建 MathWorks 账户（如果已经有清华邮箱注册的账户可以跳过这一步）
+2- 创建 MathWorks 账户（如果已经有清华邮箱注册的账户可以跳过这一步）
 
 如果没有账户， 请选择创建 MathWorks 帐户(需要激活密钥) 选项，然后点击下
 
@@ -84,7 +85,7 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e062bf05-7943-4d36-a058-5bd5f7beb785/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e062bf05-7943-4d36-a058-5bd5f7beb785/Untitled.png)
 
-3 输入账户名和密码进行激活
+3- 输入账户名和密码进行激活
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5dcd4c2-8cb8-487c-a21e-ce24c98ebd79/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5dcd4c2-8cb8-487c-a21e-ce24c98ebd79/Untitled.png)
 
