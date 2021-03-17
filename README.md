@@ -71,7 +71,7 @@ Please book your server usage before you start run your program on the group ser
 
 1 - 在终端中输入<sh /usr/local/MATLAB/R2020b/bin/activate_matlab.sh> 进入图形化界面中进行激活
 
-![图形化界面](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48d0620d-51b0-40fd-8c5e-595aaf4e28d9/Untitled.png)
+![图形化界面](/matlab_usage/1.png)
 
 2 - 创建 MathWorks 账户（如果已经有清华邮箱注册的账户可以跳过这一步）
 
@@ -79,16 +79,16 @@ Please book your server usage before you start run your program on the group ser
 
 一步。系统将提示您输入创建帐户所需的数据。
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e062bf05-7943-4d36-a058-5bd5f7beb785/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e062bf05-7943-4d36-a058-5bd5f7beb785/Untitled.png)
+![创建账号](/matlab_usage/2.png)
 
 3 - 输入账户名和密码进行激活
 
-![输入账户名和密码进行激活](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5dcd4c2-8cb8-487c-a21e-ce24c98ebd79/Untitled.png)
+![输入账户名和密码进行激活](/matlab_usage/3.png)
 
 - 请输入清华大学的邮箱(后缀包含 tsinghua.edu.cn)
 - 请输入清华大学的激活秘钥： 14424-72896-03232-76342-99442
 
-![激活](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3cec7e4c-9046-4621-b9b4-49206d4a5bc2/Untitled.png)
+![激活](/matlab_usage/4.png)
 
 If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao
 
@@ -99,4 +99,4 @@ If you have any question regarding Ubuntu server usage, please contact Zihan.
 ## 实验设备使用
 
 ### 实验室值日排班表
-[这个文档的Lab duty schedule] (https://docs.qq.com/sheet/DU3l6U1VtTXB4b3hG)包含每周负责值日的2位同学和大致任务分工。
+[这个文档的Lab duty schedule](https://docs.qq.com/sheet/DU3l6U1VtTXB4b3hG)包含每周负责值日的2位同学和大致任务分工。
