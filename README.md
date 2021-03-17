@@ -68,7 +68,30 @@ Please book your server usage before you start run your program on the group ser
 这个文档的 Server booking
 https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
+#### Server 上的 Matlab 的使用
 
+如需在自己的账户下使用matlab, 请执行以下操作激活
+
+1 在终端中输入<sh /usr/local/MATLAB/R2020b/bin/activate_matlab.sh> 进入图形化界面中进行激活
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48d0620d-51b0-40fd-8c5e-595aaf4e28d9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48d0620d-51b0-40fd-8c5e-595aaf4e28d9/Untitled.png)
+
+2 创建 MathWorks 账户（如果已经有清华邮箱注册的账户可以跳过这一步）
+
+如果没有账户， 请选择创建 MathWorks 帐户(需要激活密钥) 选项，然后点击下
+
+一步。系统将提示您输入创建帐户所需的数据。
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e062bf05-7943-4d36-a058-5bd5f7beb785/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e062bf05-7943-4d36-a058-5bd5f7beb785/Untitled.png)
+
+3 输入账户名和密码进行激活
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5dcd4c2-8cb8-487c-a21e-ce24c98ebd79/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5dcd4c2-8cb8-487c-a21e-ce24c98ebd79/Untitled.png)
+
+- 请输入清华大学的邮箱(后缀包含 tsinghua.edu.cn)
+- 请输入清华大学的激活秘钥： 14424-72896-03232-76342-99442
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3cec7e4c-9046-4621-b9b4-49206d4a5bc2/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3cec7e4c-9046-4621-b9b4-49206d4a5bc2/Untitled.png)
 
 If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao
 
