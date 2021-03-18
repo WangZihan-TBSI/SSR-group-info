@@ -62,10 +62,14 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 ### Ubuntu服务器
 
+**Open your account**
+You can contact Chengyue/Ziwu/Zihao/Zihan from our server management team to open account for you. They are happy to answer any question regarding your server usage. 
+
+**Book your usage**
 Please book your server usage before you start run your program on the group server. Find the "Server booking" sheet on the provided link and follow the "Rule of usage". 
 [这个文档的 Server booking](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3)
 
-#### Server 上的 Matlab 的使用
+**Use MATLAB on Server**
 
 如需在自己的账户下使用matlab, 请执行以下操作激活
 
