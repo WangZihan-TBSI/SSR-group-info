@@ -147,6 +147,8 @@ If you have any question regarding Ubuntu server usage, please contact Chengyue 
     
 ![FTP连接第二步](/NAS连接图片/FTP连接2.jpg) 
 
+在弹出的界面输入用户名和你设置的密码
+
 ***方法二：SMB协议映射网络驱动器***
 
 “此电脑-计算机映射网络驱动器”
@@ -165,7 +167,23 @@ If you have any question regarding Ubuntu server usage, please contact Chengyue 
     
 ![SMB连接第二步](/NAS连接图片/SMB连接2.jpg) 
 
-If you have any question regarding Ubuntu server usage, please contact Zihan.
+在弹出的界面输入用户名和你设置的密码
+
+***方法三：MacOS SMB协议挂载***
+
+访达中右键选择连接到服务器，输入
+
+    smb://10.8.31.95/Public 挂载公共分区
+    
+    smb://10.8.31.95/home 挂载个人分区
+
+在弹出的界面选择“注册用户”输入用户名和你设置的密码
+
+![Mac连接第一步](/NAS连接图片/mac1.png)
+
+![Mac连接第二步](/NAS连接图片/mac2.png)
+
+**If you have any question regarding Ubuntu server usage, please contact Zihan.**
 
 ## 实验设备使用
 
