@@ -5,6 +5,7 @@
 **挑选文献**
 
 **准备PPT**
+
 至少排练3-5次
 
 **分享会当天**
@@ -36,7 +37,8 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 ### 购买实验用设备报销
 
 **单件/单笔 1000元以上**
-    请联系邱康琪老师协助购买
+
+请联系邱康琪老师协助购买
 
 **单件/单笔 1000元以下**
 
@@ -102,6 +104,66 @@ Please book your server usage before you start run your program on the group ser
 If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao
 
 ### Fileserver文件服务器使用
+
+**Step 1: 修改密码**
+在浏览器内访问<http://10.8.31.95:5000/> (工位的台式机可以直接域名访问 <http://ssr_nas:5000/> 
+输入你的账户名和初始密码
+
+    每个人的初始用户名是：小写的first name, 如 zihan
+    初始密码是 ssrlab2021
+    
+在右上角点击“选项-个人设置”修改密码
+
+![更改密码](/NAS连接图片/changepw.jpg)
+
+这个网页里还有NAS的其他功能，例如可以在回收站里找回误删的文件，欢迎探索！
+
+**Step 2: 挂载NAS分区到windows主机**
+
+*文件服务器的公共分区 Public*
+
+里面有各类软件的安装包和组内的学习资料。实验室的电脑也会挂载这个分区，供大家测试时临时保存数据。
+
+*个人分区 home*
+
+每个人账户下的home分区只自己能看到，供保存个人资料使用,给每位同学的初始空间是1TB, 如需更多请联系子涵。
+建议大家在实验结束后把采集的数据保存在这个分区，以确保不被别的同学覆盖或误删。
+
+***方法一：FTP协议挂载***
+
+在“此电脑”内右键“添加一个网络位置-下一步-下一步”
+
+![FTP连接第一步](/NAS连接图片/FTP连接1.png)
+
+在“指定网站的位置”输入
+    
+    \\10.8.31.95\Public 挂载公共分区
+    
+    (工位的台式机也可以输入 \\ssr_nas\Public ）
+    
+    \\10.8.31.95\home 挂载个人分区
+    
+    (工位的台式机也可以输入 \\ssr_nas\home ）
+    
+![FTP连接第二步](/NAS连接图片/FTP连接2.jpg) 
+
+***方法二：SMB协议映射网络驱动器***
+
+“此电脑-计算机映射网络驱动器”
+
+![SMB连接第一步](/NAS连接图片/SMB连接1.jpg)
+
+在“文件夹”输入
+    
+    \\10.8.31.95\Public 挂载公共分区
+    
+    (工位的台式机也可以输入 \\ssr_nas\Public ）
+    
+    \\10.8.31.95\home 挂载个人分区
+    
+    (工位的台式机也可以输入 \\ssr_nas\home ）
+    
+![SMB连接第二步](/NAS连接图片/SMB连接2.jpg) 
 
 If you have any question regarding Ubuntu server usage, please contact Zihan.
 
