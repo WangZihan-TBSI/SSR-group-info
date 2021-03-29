@@ -59,7 +59,7 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
     发票抬头：中国医疗保健国际交流促进会
     税号： 51100000500012681T
 
-# IT miscellaneous
+# IT
 
 ## WiFi Connection
 
@@ -203,6 +203,8 @@ If you have any question regarding Ubuntu server usage, please contact Chengyue 
 ![Mac连接第二步](/NAS连接图片/mac2.png)
 
 **If you have any question regarding Ubuntu server usage, please contact Zihan.**
+
+# Safety and regulations
 
 ## 实验设备使用
 
