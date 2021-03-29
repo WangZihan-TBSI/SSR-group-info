@@ -1,4 +1,4 @@
-# SSR Lab Resources
+# SSR Lab Traditions
 
 ## 双周文献分享会流程 Bi-week Literature review meeting
 
@@ -15,6 +15,8 @@
 你在组里登记的邮箱和你的组会出场顺序可以在这个文档的 Group LR meeting 和 Contact Information 这两个Tab 里看到
 【腾讯文档】SSR Group Management
 https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
+
+# Financial affairs
 
 ## 报销流程
 
@@ -56,7 +58,24 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
     发票抬头：中国医疗保健国际交流促进会
     税号： 51100000500012681T
-    
+
+# IT miscellaneous
+
+## WiFi Connection
+
+**In 1111C Lab**
+
+SSID: 1111C
+password: ssrlab1111
+
+**In 1111 A**
+
+SSID：TBSI-ZY
+password: Tbsi_12@34
+or
+SSID：TBSI-Guest
+password:TBSI_1234
+
 ## 打印机使用
 
 在实验室内网访问[这个地址](http://10.8.4.170/wiki/index.php/%E6%89%93%E5%8D%B0%E6%9C%BA)可获得连接方法
