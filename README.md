@@ -97,9 +97,9 @@ Please book your server usage before you start run your program on the group ser
 
 **IP address**
 
-GPU server     LAN IP （内网IP) 10.8.31.78  (外网IP:SSH端口号）103.46.128.53:35587
+GPU server     LAN (内网) IP **10.8.31.78** ;  WAN(外网)IP:SSH port  **103.46.128.53:35587**
 
-CPU server #1  LAN IP （内网IP) 10.8.31.98  (外网IP:SSH端口号）103.46.128.53:58838
+CPU server #1  LAN (内网) IP **10.8.31.98** ;  WAN(外网)IP:SSH port  **103.46.128.53:58838**
 
 **Use MATLAB on Server**
 
