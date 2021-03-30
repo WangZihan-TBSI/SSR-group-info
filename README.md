@@ -95,6 +95,12 @@ You can contact Chengyue/Ziwu/Zihao/Zihan from our server management team to ope
 Please book your server usage before you start run your program on the group server. Find the "Server booking" sheet on the provided link and follow the "Rule of usage". 
 [这个文档的 Server booking](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3)
 
+**IP address**
+
+GPU server     LAN IP （内网IP) 10.8.31.78  (外网IP:SSH端口号）103.46.128.53:35587
+
+CPU server #1  LAN IP （内网IP) 10.8.31.98  (外网IP:SSH端口号）103.46.128.53:58838
+
 **Use MATLAB on Server**
 
 如需在自己的账户下使用matlab, 请执行以下操作激活
