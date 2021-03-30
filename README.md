@@ -66,14 +66,19 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 **In 1111C Lab**
 
 SSID: 1111C
+
 password: ssrlab1111
 
 **In 1111 A**
 
 SSID：TBSI-ZY
+
 password: Tbsi_12@34
+
 or
+
 SSID：TBSI-Guest
+
 password:TBSI_1234
 
 ## 打印机使用
