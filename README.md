@@ -1,4 +1,4 @@
-# SSR Lab Info
+# SSR Group Info
 
 ## 双周文献分享会流程 Bi-week Literature review meeting
 
