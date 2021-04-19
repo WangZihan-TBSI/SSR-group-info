@@ -3,10 +3,11 @@
 ## 双周文献分享会流程 Bi-week Literature review meeting
 
 **挑选文献**
+If you are not sure what kinds of paper is good, try to start from the top-notch journals or conferences from our field, such as Nature/Science and its sisters' journals Nature Electronics/Communications/Biomedical Engineering, Science Robotics/Advances (avoid Scientifc Reports), ICRA/IROS, ICLR/ICML/CVPR/AAAI, Ubicomp/CHI and etc.
 
 **准备PPT**
 
-至少排练3-5次
+至少排练3-5次, Make sure you really understand the paper and try to tell us why this paper is good.
 
 **分享会当天**
 
