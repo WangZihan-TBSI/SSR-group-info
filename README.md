@@ -1,5 +1,13 @@
 # SSR Group Info
 
+## 每周工作汇报 Weekly Report
+Use the following text template and send Prof. Ding (ding.wenbo@sz.tsinghua.edu.cn) the email every Friday (no late than 11:59pm) with the theme (周工作汇报-姓名-日期 or Weekly Report-Name-YYMMDD). (English and Chinese are both fine) 
+1. Your Projects (and who you work with)
+2. Your progress in this week. (any difficulties, any findings, any trials and errors.) 
+3. Your plan in the next week. (any submission plans in the future)
+4. Your services and contributions to our group, if any.
+Remember, this is a mandatory requirement for all the students in campus while for the students not yet enrolled it is optional.
+
 ## 双周文献分享会流程 Bi-week Literature review meeting
 
 **挑选文献**
