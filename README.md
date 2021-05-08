@@ -9,7 +9,7 @@ Use the following text template and send Prof. Ding (ding.wenbo@sz.tsinghua.edu.
 
 Remember, this is a mandatory requirement for all the students in campus while for the students not yet enrolled it is optional.
 
-## 双周文献分享会流程 Bi-week Literature review meeting
+## 双周文献分享会流程 Bi-weekly Literature review meeting
 
 **挑选文献**
 If you are not sure what kinds of papers are good, try to start from the top-notch journals or conferences from our field, such as Nature/Science and its sisters' journals Nature Electronics/Communications/Biomedical Engineering, Science Robotics/Advances (avoid Scientifc Reports), ICRA/IROS, ICLR/ICML/CVPR/AAAI, Ubicomp/CHI and etc.
