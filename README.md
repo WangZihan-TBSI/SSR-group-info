@@ -93,6 +93,8 @@ password:TBSI_1234
 
 **另外，2C 实验室的 Wiki 是 http://10.8.4.170/**
 
+位于1111C的彩色激光打印机ip是: **10.8.31.39**
+
 ## 服务器使用
 
 ### Ubuntu服务器
@@ -106,9 +108,19 @@ Please book your server usage before you start run your program on the group ser
 
 **IP address**
 
-GPU server     LAN (内网) IP **10.8.31.78** ;  WAN(外网)IP:SSH port  **103.46.128.53:35587**
+GPU server #0 (RTX 3090 * 1) LAN (内网) IP **10.8.31.78** ;  WAN(外网)IP:SSH port  **103.46.128.53:35587**
 
-CPU server #1  LAN (内网) IP **10.8.31.98** ;  WAN(外网)IP:SSH port  **103.46.128.53:58838**
+GPU server #1 (RTX 3090 * 1) LAN (内网) IP **10.8.31.98** ;  WAN(外网)IP:SSH port  **103.46.128.53:58838**
+
+**Configure the Machine Learning Environment**
+
+由于实验室网络条件有限，自行安装pytorch、tensorflow环境可能会遇到阻碍，在此Chengyue已为大家配置好pytorch==1.7.1+cu110,tensorflow-gpu==2.4.0,keras==2.4.3等机器学习常用包，安装步骤如下:
+
+1 - 安装anaconda环境
+
+2 - 拷贝/home/chengyue/anaconda3/envs/ml下所有文件到你的账号anaconda环境目录
+
+3 - conda activate ml
 
 **Use MATLAB on Server**
 
