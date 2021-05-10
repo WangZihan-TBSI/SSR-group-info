@@ -118,7 +118,7 @@ GPU server #1 (RTX 3090 * 1) LAN (内网) IP **10.8.31.98** ;  WAN(外网)IP:SSH
 
 1 - 安装anaconda环境
 
-2 - 拷贝/home/chengyue/anaconda3/envs/ml下所有文件到你的账号anaconda环境目录
+2 - 拷贝/home/chengyue/anaconda3/envs/ml下所有文件到你的账号下anaconda环境目录
 
 3 - conda activate ml
 
