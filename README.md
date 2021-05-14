@@ -125,9 +125,9 @@ Please book your server usage before you start run your program on the group ser
 
 **IP address**
 
-GPU server #0 (RTX 3090 * 1) LAN (内网) IP **10.8.31.78** ;  WAN(外网)IP:SSH port  **103.46.128.53:35587**
+GPU server #0 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237** ;  WAN(外网)IP:SSH port  **103.46.128.53:35587**
 
-GPU server #1 (RTX 3090 * 1) LAN (内网) IP **10.8.31.98** ;  WAN(外网)IP:SSH port  **103.46.128.53:58838**
+GPU server #1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.238** ;  WAN(外网)IP:SSH port  **103.46.128.53:58838**
 
 **Configure the Machine Learning Environment**
 
