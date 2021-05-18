@@ -129,6 +129,8 @@ GPU server #0 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237** or **10.8.14.234** 
 
 GPU server #1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.238** or **10.8.14.233** ;  WAN(外网)IP:SSH port  **103.46.128.53:58838**
 
+CPU Workstation LAN (内网) IP **10.8.31.70** or **10.8.31.227** ;  WAN(外网)IP:SSH port  **xxxxxx**
+
 **Configure the Machine Learning Environment**
 
 由于实验室网络条件有限，自行安装pytorch、tensorflow环境可能会遇到阻碍，在此Chengyue已为大家配置好pytorch==1.7.1+cu110,tensorflow-gpu==2.4.0,keras==2.4.3等机器学习常用包，安装步骤如下:
@@ -170,7 +172,7 @@ If you have any question regarding Ubuntu server usage, please contact Chengyue 
 
 **Step 1: 修改密码**
 在浏览器内访问<http://10.8.31.95:5000/> (工位的台式机可以直接域名访问 <http://ssr_nas:5000/> 
-输入你的账户名和初始密码
+输入你的账户名和初始密码 (备用IP：10.8.31.105)
 
     每个人的初始用户名是：小写的first name, 如 zihan
     初始密码是 ssrlab2021
