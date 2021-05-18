@@ -88,7 +88,7 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 SSID: 1111C
 
-password: ssrlab1111
+password: ssrgroup
 
 **In 1111 A**
 
