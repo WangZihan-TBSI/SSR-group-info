@@ -112,7 +112,7 @@ password:TBSI_1234
 
 位于1111C的彩色激光打印机ip是 **10.8.31.39**
 
-### Ubuntu服务器
+## 服务器使用
 
 **Open your account**
 You can contact Chengyue/Ziwu/Zihao/Zihan from our server management team to open account for you. They are happy to answer any question regarding your server usage. 
@@ -127,7 +127,7 @@ GPU server #0 (RTX 3090 * 1) LAN (内网) IP **10.8.14.216** or **10.8.14.234** 
 
 GPU server #1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.238** or **10.8.14.233** ;  WAN(外网)IP:SSH port  **103.46.128.53:58838**
 
-CPU Workstation LAN (内网) IP **10.8.31.70** or **10.8.31.227** ;  WAN(外网)IP:SSH port  **xxxxxx**
+CPU Workstation LAN (内网) IP **10.8.31.70** or **10.168.1.204(免认证网段)** ;  WAN(外网)IP:SSH port  **xxxxxx**
 
 **Configure the Machine Learning Environment**
 
@@ -170,7 +170,7 @@ If you have any question regarding Ubuntu server usage, please contact Chengyue 
 
 **Step 1: 修改密码**
 在浏览器内访问<http://10.8.31.95:5000/> (工位的台式机可以直接域名访问 <http://ssr_nas:5000/> 
-输入你的账户名和初始密码 (备用IP：10.168.1.244)
+输入你的账户名和初始密码 (免认证网段 IP：10.168.1.244)
 
     每个人的初始用户名是：小写的first name, 如 zihan
     初始密码是 ssrlab2021
