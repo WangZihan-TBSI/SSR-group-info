@@ -84,7 +84,7 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 ## WiFi Connection
 
-**In 1111C Lab**
+**In 1111C Lab (免认证)**
 
 SSID: 1111C
 
@@ -100,7 +100,7 @@ or
 
 SSID：TBSI-Guest
 
-password:TBSI_1234
+password:TBSI_1234 or TBSI_2019
 
 ## 打印机使用
 
