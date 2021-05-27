@@ -112,8 +112,6 @@ password:TBSI_1234
 
 位于1111C的彩色激光打印机ip是 **10.8.31.39**
 
-## 服务器使用
-
 ### Ubuntu服务器
 
 **Open your account**
