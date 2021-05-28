@@ -100,7 +100,7 @@ or
 
 SSID：TBSI-Guest
 
-password:TBSI_1234 or TBSI_2019
+password: TBSI_2019
 
 ## 打印机使用
 
