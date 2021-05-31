@@ -30,17 +30,17 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 ## Financial affairs
 
-### 报销流程
+### Reimbursement 报销流程
 
 **物品购买前** 将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）获得**购买许可**；并抄送邱老师（qiu.kangqi@sz.tsinghua.edu.cn）或者李胜男老师（lishengnan@sz.tsinghua.edu.cn），获悉**购买方式和报销抬头**选择
 
 通常情况下 **单件/单笔 1000元以上**由邱康琪老师或李胜男老师协助购买；**单件/单笔 1000元以下** 自行垫资购买
 
-### 书籍购买
+### Buy some Books 书籍购买
 
 入学的同学每人有 300元/学年 科技书籍购买预算，按需报销。
 
-### 双周组会餐饮报销
+### Prepare Catering 双周组会餐饮报销
 
 原则上不买饮料，人均餐费控制在30元，开票前和邱康祺老师再确认一下，通常情况下发票开伯克利筹备办公室抬头
 
