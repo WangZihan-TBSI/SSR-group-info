@@ -1,5 +1,7 @@
 # SSR Group Info
 
+## [SSR-Group 私享学习资源](https://www.notion.so/Know-How-1f66947304ce41ef9200b3171eb5e3bc)
+
 ## 每周工作汇报 Weekly Report
 Use the following text template and send Prof. Ding (ding.wenbo@sz.tsinghua.edu.cn) the email every Friday (no late than 11:59pm) with the theme (周工作汇报-姓名-日期 or Weekly Report-Name-YYMMDD). (English and Chinese are both fine) 
 1. Your Projects (and who you work with)
@@ -86,16 +88,13 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 **In 1111C Lab (免认证)**
 
-SSID: 1111C
-
-password: ssrgroup
+SSID: 1111C      password: ssrgroup
 
 **In 1111 A**
 
 SSID：TBSI-ZY    password: Tbsi_12@34
 
 SSID：TBSI-Guest password: TBSI_2019
-
 
 ### 打印机使用
 
