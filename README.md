@@ -26,9 +26,9 @@ If you are not sure what kinds of papers are good, try to start from the top-not
 【腾讯文档】SSR Group Management
 https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
-# Financial affairs
+## Financial affairs
 
-## 报销流程
+### 报销流程
 
 **物品购买前** 将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）获得**购买许可**；并抄送邱老师（qiu.kangqi@sz.tsinghua.edu.cn）或者李胜男老师（lishengnan@sz.tsinghua.edu.cn），获悉**购买方式和报销抬头**选择
 
@@ -80,9 +80,9 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
     
     开户行：建设银行深圳后海公馆支行
 
-# IT
+## IT
 
-## WiFi Connection
+### WiFi Connection
 
 **In 1111C Lab (免认证)**
 
@@ -102,7 +102,7 @@ SSID：TBSI-Guest
 
 password: TBSI_2019
 
-## 打印机使用
+### 打印机使用
 
 在实验室内网访问[这个地址](http://10.8.4.170/wiki/index.php/%E6%89%93%E5%8D%B0%E6%9C%BA)可获得连接方法
 
@@ -112,7 +112,7 @@ password: TBSI_2019
 
 位于1111C的彩色激光打印机ip是 **10.8.31.39**
 
-## 服务器使用
+### 高性能计算服务器使用
 
 **Open your account**
 You can contact Chengyue/Ziwu/Zihao/Zihan from our server management team to open account for you. They are happy to answer any question regarding your server usage. 
@@ -143,91 +143,11 @@ CPU Workstation LAN (内网) IP **10.8.31.70** or **10.168.1.204(免认证网段
 
 If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao
 
-### Fileserver文件服务器使用
+### [Fileserver Usage 文件服务器使用](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
 
-**Step 1: 修改密码**
-在浏览器内访问<http://10.8.31.95:5000/> (工位的台式机可以直接域名访问 <http://ssr_nas:5000/> 
-输入你的账户名和初始密码 (免认证网段 IP：10.168.1.244)
+## Safety and regulations
 
-    每个人的初始用户名是：小写的first name, 如 zihan
-    初始密码是 ssrlab2021
-    
-在右上角点击“选项-个人设置”修改密码
-
-![更改密码](/NAS连接图片/changepw.jpg)
-
-这个网页里还有NAS的其他功能，例如可以在回收站里找回误删的文件，欢迎探索！
-
-**Step 2: 挂载NAS分区到windows主机**
-
-*文件服务器的公共分区 Public*
-
-里面有各类软件的安装包和组内的学习资料。实验室的电脑也会挂载这个分区，供大家测试时临时保存数据。
-
-*个人分区 home*
-
-每个人账户下的home分区只自己能看到，供保存个人资料使用,给每位同学的初始空间是1TB, 如需更多请联系子涵。
-建议大家在实验结束后把采集的数据保存在这个分区，以确保不被别的同学覆盖或误删。
-
-***方法一：FTP协议挂载***
-
-在“此电脑”内右键“添加一个网络位置-下一步-下一步”
-
-![FTP连接第一步](/NAS连接图片/FTP连接1.png)
-
-在“指定网站的位置”输入
-    
-    \\10.8.31.95\Public 挂载公共分区
-    
-    (工位的台式机也可以输入 \\ssr_nas\Public ）
-    
-    \\10.8.31.95\home 挂载个人分区
-    
-    (工位的台式机也可以输入 \\ssr_nas\home ）
-    
-![FTP连接第二步](/NAS连接图片/FTP连接2.jpg) 
-
-在弹出的界面输入用户名和你设置的密码
-
-***方法二：SMB协议映射网络驱动器***
-
-“此电脑-计算机映射网络驱动器”
-
-![SMB连接第一步](/NAS连接图片/SMB连接1.jpg)
-
-在“文件夹”输入
-    
-    \\10.8.31.95\Public 挂载公共分区
-    
-    (工位的台式机也可以输入 \\ssr_nas\Public ）
-    
-    \\10.8.31.95\home 挂载个人分区
-    
-    (工位的台式机也可以输入 \\ssr_nas\home ）
-    
-![SMB连接第二步](/NAS连接图片/SMB连接2.jpg) 
-
-在弹出的界面输入用户名和你设置的密码
-
-***方法三：MacOS SMB协议挂载***
-
-访达中右键选择连接到服务器，输入
-
-    smb://10.8.31.95/Public 挂载公共分区
-    
-    smb://10.8.31.95/home 挂载个人分区
-
-在弹出的界面选择“注册用户”输入用户名和你设置的密码
-
-![Mac连接第一步](/NAS连接图片/mac1.png)
-
-![Mac连接第二步](/NAS连接图片/mac2.png)
-
-**If you have any question regarding Ubuntu server usage, please contact Zihan.**
-
-# Safety and regulations
-
-## 实验设备使用
+### 实验设备使用
 
 ### 实验室值日排班表
 [这个文档的Lab duty schedule](https://docs.qq.com/sheet/DU3l6U1VtTXB4b3hG)包含每周负责值日的2位同学和大致任务分工。
