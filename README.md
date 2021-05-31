@@ -92,27 +92,20 @@ password: ssrgroup
 
 **In 1111 A**
 
-SSID：TBSI-ZY
+SSID：TBSI-ZY    password: Tbsi_12@34
 
-password: Tbsi_12@34
+SSID：TBSI-Guest password: TBSI_2019
 
-or
-
-SSID：TBSI-Guest
-
-password: TBSI_2019
 
 ### 打印机使用
 
-在实验室内网访问[这个地址](http://10.8.4.170/wiki/index.php/%E6%89%93%E5%8D%B0%E6%9C%BA)可获得连接方法
+在信息楼内网访问[这个地址](http://10.8.4.170/wiki/index.php/%E6%89%93%E5%8D%B0%E6%9C%BA)可获得连接方法
 
 实验室打印机的型号是 HP LaserJet Pro MFP M226dw A02A63 ，可以扫描、复印和打印。扫描和打印可以使用 U 盘来完成。 打印机的内网地址是 http://10.8.31.90/ 。 如果想从电脑打印和扫描到电脑，电脑上要先安装 [驱动](https://support.hp.com/in-en/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)，官方驱动支持各种操作系统。Mac Big Sur系统会导致旧版本驱动报错，可参考https://support.hp.com/us-en/document/c06960563更新驱动。
 
-**另外，2C 实验室的 Wiki 是 http://10.8.4.170/**
-
 位于1111C的彩色激光打印机ip是 **10.8.31.39**
 
-### 高性能计算服务器使用
+### 高性能计算服务器使用 Ubuntu server Usage
 
 **Open your account**
 You can contact Chengyue/Ziwu/Zihao/Zihan from our server management team to open account for you. They are happy to answer any question regarding your server usage. 
@@ -151,3 +144,6 @@ If you have any question regarding Ubuntu server usage, please contact Chengyue 
 
 ### 实验室值日排班表
 [这个文档的Lab duty schedule](https://docs.qq.com/sheet/DU3l6U1VtTXB4b3hG)包含每周负责值日的2位同学和大致任务分工。
+
+#### 友情链接
+[**2C 大组的 Wiki **](http://10.8.4.170/）
