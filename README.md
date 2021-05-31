@@ -139,30 +139,7 @@ CPU Workstation LAN (内网) IP **10.8.31.70** or **10.168.1.204(免认证网段
 
 3 - conda activate ml
 
-**Use MATLAB on Server**
-
-如需在自己的账户下使用matlab, 请执行以下操作激活
-
-1 - 在终端中输入<sh /usr/local/MATLAB/R2020b/bin/activate_matlab.sh> 进入图形化界面中进行激活
-
-![图形化界面](/matlab_usage/1.png)
-
-2 - 创建 MathWorks 账户（如果已经有清华邮箱注册的账户可以跳过这一步）
-
-如果没有账户， 请选择创建 MathWorks 帐户(需要激活密钥) 选项，然后点击下
-
-一步。系统将提示您输入创建帐户所需的数据。
-
-![创建账号](/matlab_usage/2.png)
-
-3 - 输入账户名和密码进行激活
-
-![输入账户名和密码进行激活](/matlab_usage/3.png)
-
-- 请输入清华大学的邮箱(后缀包含 tsinghua.edu.cn)
-- 请输入清华大学的激活秘钥： 14424-72896-03232-76342-99442
-
-![激活](/matlab_usage/4.png)
+[**Use MATLAB on Server**](https://www.notion.so/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)
 
 If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao
 
