@@ -115,15 +115,17 @@ Please book your server usage before you start run your program on the group ser
 
 **IP address**
 
-GPU server #0 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237** or **10.8.14.207** ;  WAN(外网)IP:SSH port  **103.46.128.53:35587**
+GPU server #0 (RTX 3090 * 1) LAN (内网) IP **10.8.14.207**;  WAN(外网)IP:SSH port  **103.46.128.53:35587**
 
-GPU server #1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.238** or **10.8.14.233** ;  WAN(外网)IP:SSH port  **103.46.128.53:58838**
+GPU server #1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.233**;  WAN(外网)IP:SSH port  **103.46.128.53:58838**
 
-CPU Workstation LAN (内网) IP **10.8.31.70** or **10.168.1.204(免认证网段)** ;  WAN(外网)IP:SSH port  **43.129.250.175:2222**
+CPU Workstation LAN (内网) IP **10.8.31.70**;                WAN(外网)IP:SSH port  **ssr.bluedeer233.com:4455**
 
-公网服务器IP：**43.129.250.175** (请不要在公网服务器部署任务)
+公网服务器IP：**ssr.bluedeer233.com** (请不要在公网服务器部署任务)
 
-注：外网传输文件或其他需要大带宽任务请先使用ssh连接43.129.250.175:2222，再ssh目标服务器对应的内网ip;
+注：外网传输文件或其他需要大带宽任务请先使用ssh连接ssr.bluedeer233.com:4455，再ssh目标服务器对应的内网ip;
+
+**重要：请不要在CPU Workstation账户下设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员**
 
 **Configure the Machine Learning Environment**
 
