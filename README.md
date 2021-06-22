@@ -86,13 +86,7 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 **WiFi Connection**
 
-**In 1111C Lab (免认证)**
-
 SSID: 1111C      password: ssrgroup
-
-**In 1111 A**
-
-SSID：TBSI-ZY    password: Tbsi_12@34
 
 SSID：TBSI-Guest password: TBSI_2019
 
