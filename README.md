@@ -88,9 +88,9 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 **WiFi Connection**
 
-SSID: 1111C      password: ssrgroup
+SSID: 1111C         password: ssrgroup
 
-SSID：TBSI-Guest password: TBSI_2019
+SSID：TBSI-Guest    password: TBSI_2019
 
 **打印机使用**
 
@@ -137,7 +137,7 @@ CPU Workstation LAN (内网) IP **10.8.31.70**;                WAN(外网)IP:SSH
 
 If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao
 
-### [Fileserver Usage 文件服务器使用](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
+[**Fileserver Usage 文件服务器使用**](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
 
 点击查看
 
