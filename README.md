@@ -113,11 +113,7 @@ Please book your server usage before you start run your program on the group ser
 
 GPU server #0 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237**;  
 
-; WAN(外网)IP:SSH port  **103.46.128.53:35587**]
-
 GPU server #1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.233**;  
-
-; WAN(外网)IP:SSH port  **103.46.128.53:58838**
 
 GPU server #2 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;                WAN(外网)IP:SSH port  **ssr.bluedeer233.com:4455**
 
