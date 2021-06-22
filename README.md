@@ -1,6 +1,6 @@
 # SSR Group Info
 
-## [SSR-Group 私享学习资源](https://www.notion.so/Know-How-1f66947304ce41ef9200b3171eb5e3bc)
+## [SSR-Group 私享学习资源](https://www.notion.so/Know-How-1f66947304ce41ef9200b3171eb5e3bc)点击查看
 
 ## 每周工作汇报 Weekly Report
 Use the following text template and send Prof. Ding (ding.wenbo@sz.tsinghua.edu.cn) the email every Friday (no late than 11:59pm) with the theme (周工作汇报-姓名-日期 or Weekly Report-Name-YYMMDD). (English and Chinese are both fine) 
@@ -30,21 +30,21 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 ## Financial affairs
 
-### Reimbursement 报销流程
+**Reimbursement 报销流程**
 
 **物品购买前** 将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）获得**购买许可**；并抄送邱老师（qiu.kangqi@sz.tsinghua.edu.cn）或者李胜男老师（lishengnan@sz.tsinghua.edu.cn），获悉**购买方式和报销抬头**选择
 
 通常情况下 **单件/单笔 1000元以上**由邱康琪老师或李胜男老师协助购买；**单件/单笔 1000元以下** 自行垫资购买
 
-### Buy some Books 书籍购买
+**Buy some Books 书籍购买**
 
 入学的同学每人有 300元/学年 科技书籍购买预算，按需报销。
 
-### Prepare Catering 双周组会餐饮报销
+**Prepare Catering 双周组会餐饮报销**
 
 原则上不买饮料，人均餐费控制在30元，开票前和邱康祺老师再确认一下，通常情况下发票开伯克利筹备办公室抬头
 
-### 发票抬头
+**常用发票抬头**
 
 清华大学抬头：
 
@@ -125,7 +125,7 @@ CPU Workstation LAN (内网) IP **10.8.31.70**;                WAN(外网)IP:SSH
 
 注：外网传输文件或其他需要大带宽任务请先使用ssh连接ssr.bluedeer233.com:4455，再ssh目标服务器对应的内网ip;
 
-**重要：请不要在服务器账户下设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员**
+**重要：请不要在服务器账户下设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员陆诚越**
 
 **Configure the Machine Learning Environment**
 
@@ -141,7 +141,7 @@ CPU Workstation LAN (内网) IP **10.8.31.70**;                WAN(外网)IP:SSH
 
 If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao
 
-### [Fileserver Usage 文件服务器使用](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
+### [Fileserver Usage 文件服务器使用](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)点击查看
 
 ## Safety and regulations
 
