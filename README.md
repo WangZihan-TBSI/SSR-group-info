@@ -1,6 +1,8 @@
 # SSR Group Info
 
-## [SSR-Group 私享学习资源](https://www.notion.so/Know-How-1f66947304ce41ef9200b3171eb5e3bc)点击查看
+## [SSR-Group 私享学习资源](https://www.notion.so/Know-How-1f66947304ce41ef9200b3171eb5e3bc)
+
+点击查看
 
 ## 每周工作汇报 Weekly Report
 Use the following text template and send Prof. Ding (ding.wenbo@sz.tsinghua.edu.cn) the email every Friday (no late than 11:59pm) with the theme (周工作汇报-姓名-日期 or Weekly Report-Name-YYMMDD). (English and Chinese are both fine) 
@@ -135,7 +137,9 @@ CPU Workstation LAN (内网) IP **10.8.31.70**;                WAN(外网)IP:SSH
 
 If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao
 
-### [Fileserver Usage 文件服务器使用](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)点击查看
+### [Fileserver Usage 文件服务器使用](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
+
+点击查看
 
 ## Safety and regulations
 
