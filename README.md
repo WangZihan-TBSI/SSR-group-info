@@ -84,7 +84,7 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 ## IT
 
-### WiFi Connection
+**WiFi Connection**
 
 **In 1111C Lab (免认证)**
 
@@ -96,7 +96,7 @@ SSID：TBSI-ZY    password: Tbsi_12@34
 
 SSID：TBSI-Guest password: TBSI_2019
 
-### 打印机使用
+**打印机使用**
 
 在信息楼内网访问[这个地址](http://10.8.4.170/wiki/index.php/%E6%89%93%E5%8D%B0%E6%9C%BA)可获得连接方法
 
@@ -104,7 +104,7 @@ SSID：TBSI-Guest password: TBSI_2019
 
 位于1111C的彩色激光打印机ip是 **10.8.31.39**
 
-### 高性能计算服务器使用 Ubuntu server Usage
+**高性能计算服务器使用 Ubuntu server Usage**
 
 **Open your account**
 You can contact Chengyue/Ziwu/Zihao/Zihan from our server management team to open account for you. They are happy to answer any question regarding your server usage. 
@@ -145,7 +145,7 @@ If you have any question regarding Ubuntu server usage, please contact Chengyue 
 
 ## Safety and regulations
 
-## 实验室值日排班表
+**实验室值日排班表**
 [这个文档的Lab duty schedule](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=q1nf9a)包含每周负责值日的2位同学和大致任务分工。
 
 #### 友情链接
