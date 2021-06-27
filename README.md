@@ -111,13 +111,13 @@ Please book your server usage before you start run your program on the group ser
 
 **IP address**
 
-GPU server #0 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237**;  
+GPU server #0 (RTX 3090 * 1) LAN (内网) IP **10.8.14.194**;  
 
 GPU server #1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.233**;  
 
 GPU server #2 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;                WAN(外网)IP:SSH port  **ssr.bluedeer233.com:4455**
 
-公网服务器IP：**ssr.bluedeer233.com** (请不要在公网服务器部署任务)
+公网服务器IP：**ssr.bluedeer233.com (43.129.250.175)** (请不要在公网服务器部署任务)
 
 注：外网传输文件或其他需要大带宽任务请先使用ssh连接ssr.bluedeer233.com:4455，再ssh目标服务器对应的内网ip;
 
