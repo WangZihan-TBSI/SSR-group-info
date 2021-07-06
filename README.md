@@ -111,11 +111,11 @@ Please book your server usage before you start run your program on the group ser
 
 **IP address**
 
-SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.245**;  
+SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.245**;  **备用** WAN(外网) SSH port  **43.129.250.175:6677**
 
 SSR WS 2 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237**;
 
-SSR WS 3 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;                WAN(外网) SSH port  **ssr.bluedeer233.com:4455**
+SSR WS 3 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;   **备用** WAN(外网) SSH port  **ssr.bluedeer233.com:4455**
 
 公网服务器IP：**ssr.bluedeer233.com (43.129.250.175)** (请不要在公网服务器部署任务)
 
