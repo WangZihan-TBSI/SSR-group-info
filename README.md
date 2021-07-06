@@ -100,7 +100,7 @@ SSID：TBSI-Guest    password: TBSI_2019
 
 位于1111C的彩色激光打印机ip是 **10.8.31.39**
 
-**高性能计算服务器使用 Ubuntu server Usage**
+**服务器使用 Server Usage**
 
 **Open your account**
 You can contact Chengyue/Ziwu/Zihao/Zihan from our server management team to open account for you. They are happy to answer any question regarding your server usage. 
@@ -111,7 +111,7 @@ Please book your server usage before you start run your program on the group ser
 
 **IP address**
 
-SSR WS 0 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;                WAN(外网)IP:SSH port  **ssr.bluedeer233.com:4455**
+SSR WS 0 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;                WAN(外网) SSH port  **ssr.bluedeer233.com:4455**
 
 SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.245**;  
 
@@ -138,6 +138,8 @@ SSR WS 3 (RTX 3090 * 2) LAN (内网) IP **10.8.14.241**;
 [**Use MATLAB on Server**](https://www.notion.so/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)
 
 If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao
+
+SSR Fileserver LAN (内网) IP **10.8.31.95**; 
 
 [**Fileserver Usage 文件服务器使用**](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
 
