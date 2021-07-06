@@ -111,7 +111,7 @@ Please book your server usage before you start run your program on the group ser
 
 **IP address**
 
-SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.245**;  **备用** WAN(外网) SSH port  **43.129.250.175:6677**
+SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.245**(这个内网IP只能通过SSR WS2中继访问);  **备用** WAN(外网) SSH port  **43.129.250.175:6677**
 
 SSR WS 2 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237**;
 
@@ -137,7 +137,7 @@ SSR WS 3 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;   **备用** WAN(外网)
 
 If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao
 
-SSR Fileserver LAN (内网) IP **10.8.31.95**; 
+SSR Fileserver LAN (内网) IP **10.8.31.95**;  **备用** WAN(外网) SSH port **bflt.iis.pub:55651**
 
 [**Fileserver Usage 文件服务器使用**](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
 
