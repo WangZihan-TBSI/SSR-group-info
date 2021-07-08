@@ -145,4 +145,4 @@ SSR NAS LAN (内网) IP **10.8.31.95**;  WAN(外网) SSH port **bflt.iis.pub:556
 **实验室值日排班表**
 [这个文档的Lab duty schedule](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=q1nf9a)包含每周负责值日的2位同学和大致任务分工。
 
-#### [**友情链接 2C 大组的 Wiki**](http://10.8.4.170/）
+#### [**友情链接: 2C 大组的 Wiki**](http://10.8.4.170/）
