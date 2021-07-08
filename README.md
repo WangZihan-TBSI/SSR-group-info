@@ -1,8 +1,6 @@
 # SSR Group Info
 
-## [SSR-Group 私享学习资源](https://www.notion.so/Know-How-1f66947304ce41ef9200b3171eb5e3bc)
-
-点击查看
+## [点击查看 SSR-Group 私享学习资源](https://www.notion.so/Know-How-1f66947304ce41ef9200b3171eb5e3bc)
 
 ## 每周工作汇报 Weekly Report
 Use the following text template and send Prof. Ding (ding.wenbo@sz.tsinghua.edu.cn) the email every Friday (no late than 11:59pm) with the theme (周工作汇报-姓名-日期 or Weekly Report-Name-YYMMDD). (English and Chinese are both fine) 
@@ -94,9 +92,9 @@ SSID：TBSI-Guest    password: TBSI_2019
 
 **打印机使用**
 
-在信息楼内网访问[这个地址](http://10.8.4.170/wiki/index.php/%E6%89%93%E5%8D%B0%E6%9C%BA)可获得连接方法
+[在信息楼内网访问](http://10.8.4.170/wiki/index.php/%E6%89%93%E5%8D%B0%E6%9C%BA)可获得连接方法
 
-实验室打印机的型号是 HP LaserJet Pro MFP M226dw A02A63 ，可以扫描、复印和打印。扫描和打印可以使用 U 盘来完成。 打印机的内网地址是 http://10.8.31.90/ 。 如果想从电脑打印和扫描到电脑，电脑上要先安装 [驱动](https://support.hp.com/in-en/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)，官方驱动支持各种操作系统。Mac Big Sur系统会导致旧版本驱动报错，可参考[该链接](https://support.hp.com/us-en/document/c06960563)更新驱动。
+实验室打印机的型号是 HP LaserJet Pro MFP M226dw A02A63 ，可以扫描、复印和打印。扫描和打印可以使用 U 盘来完成。 打印机的内网地址是 http://10.8.31.90/ 。 如果想从电脑打印和扫描到电脑，电脑上要先安装 [驱动](https://support.hp.com/in-en/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)，官方驱动支持各种操作系统。另：Mac Big Sur系统会导致旧版本驱动报错，需要[更新驱动](https://support.hp.com/us-en/document/c06960563)。
 
 位于1111C的彩色激光打印机ip是 **10.8.31.39**
 
@@ -106,22 +104,27 @@ SSID：TBSI-Guest    password: TBSI_2019
 You can contact Chengyue/Ziwu/Zihao/Zihan from our server management team to open account for you. They are happy to answer any question regarding your server usage. 
 
 **Book your usage**
-Please book your server usage before you start run your program on the group server. Find the "Server booking" sheet on the provided link and follow the "Rule of usage". 
-[这个文档的 Server booking](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3)
+Please book your server usage before you start run your program on the group server. Find the "Server booking" sheet on the provided link and follow the "Rule of usage". [这个文档的 Server booking](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3)
 
 **IP address**
 
 SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.245**(这个内网IP只能通过SSR WS2中继访问);  **备用** WAN(外网) SSH port  **43.129.250.175:6677**
 
-SSR WS 2 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237**; **备用** WAN(外网) SSH port  **43.129.250.175:4455**
+SSR WS 2 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237**; WAN(外网) SSH port  **43.129.250.175:4455**
 
-SSR WS 3 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;   **备用** WAN(外网) SSH port  **ssr.bluedeer233.com:5566**
+SSR WS 3 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;   WAN(外网) SSH port  **43.129.250.175:5566**
+
+YeLab Server (RTX 3090 * 2) LAN (内网) IP **10.8.14.239/241**; WAN(外网) SSH port  **43.129.250.175:7788** Only for emmergency use
  
 公网服务器IP：**ssr.bluedeer233.com (43.129.250.175)** (请不要在公网服务器部署任务)
 
-注：外网传输文件或其他需要大带宽任务请先使用ssh连接ssr.bluedeer233.com:4455，再ssh目标服务器对应的内网ip;
+注：外网传输文件或其他需要大带宽任务请使用 Filezila 等工具通过 SFTP 挂载 NAS 再通过内网传输到服务器中;
 
-**重要：请不要在服务器账户下设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员陆诚越**
+SSR NAS LAN (内网) IP **10.8.31.95**;  WAN(外网) SSH port **bflt.iis.pub:55651**
+
+[**NAS Usage 文件服务器使用**](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
+
+**重要：请不要设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员陆诚越  If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao**
 
 **Configure the Machine Learning Environment**
 
@@ -133,15 +136,7 @@ SSR WS 3 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;   **备用** WAN(外网)
 
 3 - conda activate ml
 
-[**Use MATLAB on Server**](https://www.notion.so/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)
-
-If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao
-
-SSR Fileserver LAN (内网) IP **10.8.31.95**;  **备用** WAN(外网) SSH port **bflt.iis.pub:55651**
-
-[**Fileserver Usage 文件服务器使用**](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
-
-点击查看
+点击查看如何在服务器上使用 MatLab [**Use MATLAB on Server**](https://www.notion.so/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)
 
 ## Safety and regulations
 
