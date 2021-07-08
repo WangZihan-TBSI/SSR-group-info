@@ -124,7 +124,7 @@ YeLab Server (RTX 3090 * 2) LAN (内网) IP **10.8.14.239/241**; WAN(外网) SSH
 
 SSR NAS LAN (内网) IP **10.8.31.95**;  WAN(外网) SSH port **bflt.iis.pub:55651**
 
-[**NAS Usage 文件服务器使用**](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
+[NAS Usage 文件服务器使用入门](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
 
 **重要：请不要设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员陆诚越  If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao**
 
