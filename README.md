@@ -1,6 +1,8 @@
 # SSR Group Info
 
+
 ## [点击查看 SSR-Group 私享学习资源](https://www.notion.so/Know-How-1f66947304ce41ef9200b3171eb5e3bc)
+
 
 ## 每周工作汇报 Weekly Report
 Use the following text template and send Prof. Ding (ding.wenbo@sz.tsinghua.edu.cn) the email every Friday (no late than 11:59pm) with the theme (周工作汇报-姓名-日期 or Weekly Report-Name-YYMMDD). (English and Chinese are both fine) 
@@ -46,7 +48,7 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 **常用发票抬头**
 
-清华大学抬头：
+**清华大学抬头：**
 
     单位名称：清华大学
     
@@ -60,7 +62,7 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
     
     开户行账号：0200004509089131550
 
-深研院开票抬头：
+**深研院开票抬头：**
     
     单位名称：清华大学深圳国际研究生院
     
@@ -70,7 +72,7 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
     
     电  话：0755-26036008
 
-清华-伯克利筹备办公室抬头：
+**清华-伯克利筹备办公室抬头：**
 
     发票抬头：清华-伯克利深圳学院筹备办公室
     
@@ -108,7 +110,7 @@ Please book your server usage before you start run your program on the group ser
 
 **IP address**
 
-SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.245**(这个内网IP只能通过SSR WS2中继访问);  **备用** WAN(外网) SSH port  **43.129.250.175:6677**
+SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.245**;  WAN(外网) SSH port  **43.129.250.175:6677** (SSR WS 1的内网IP只能通过SSR WS2中继访问)
 
 SSR WS 2 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237**; WAN(外网) SSH port  **43.129.250.175:4455**
 
