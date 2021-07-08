@@ -96,7 +96,7 @@ SSID：TBSI-Guest    password: TBSI_2019
 
 在信息楼内网访问[这个地址](http://10.8.4.170/wiki/index.php/%E6%89%93%E5%8D%B0%E6%9C%BA)可获得连接方法
 
-实验室打印机的型号是 HP LaserJet Pro MFP M226dw A02A63 ，可以扫描、复印和打印。扫描和打印可以使用 U 盘来完成。 打印机的内网地址是 http://10.8.31.90/ 。 如果想从电脑打印和扫描到电脑，电脑上要先安装 [驱动](https://support.hp.com/in-en/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)，官方驱动支持各种操作系统。Mac Big Sur系统会导致旧版本驱动报错，可参考https://support.hp.com/us-en/document/c06960563更新驱动。
+实验室打印机的型号是 HP LaserJet Pro MFP M226dw A02A63 ，可以扫描、复印和打印。扫描和打印可以使用 U 盘来完成。 打印机的内网地址是 http://10.8.31.90/ 。 如果想从电脑打印和扫描到电脑，电脑上要先安装 [驱动](https://support.hp.com/in-en/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)，官方驱动支持各种操作系统。Mac Big Sur系统会导致旧版本驱动报错，可参考[该链接](https://support.hp.com/us-en/document/c06960563)更新驱动。
 
 位于1111C的彩色激光打印机ip是 **10.8.31.39**
 
@@ -113,10 +113,10 @@ Please book your server usage before you start run your program on the group ser
 
 SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.245**(这个内网IP只能通过SSR WS2中继访问);  **备用** WAN(外网) SSH port  **43.129.250.175:6677**
 
-SSR WS 2 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237**;
+SSR WS 2 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237**; **备用** WAN(外网) SSH port  **43.129.250.175:4455**
 
-SSR WS 3 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;   **备用** WAN(外网) SSH port  **ssr.bluedeer233.com:4455**
-
+SSR WS 3 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;   **备用** WAN(外网) SSH port  **ssr.bluedeer233.com:5566**
+ 
 公网服务器IP：**ssr.bluedeer233.com (43.129.250.175)** (请不要在公网服务器部署任务)
 
 注：外网传输文件或其他需要大带宽任务请先使用ssh连接ssr.bluedeer233.com:4455，再ssh目标服务器对应的内网ip;
