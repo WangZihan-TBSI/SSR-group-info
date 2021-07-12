@@ -115,8 +115,6 @@ SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.245**;  WAN(外网) SSH port  
 SSR WS 2 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237**; WAN(外网) SSH port  **43.129.250.175:4455**
 
 SSR WS 3 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;   WAN(外网) SSH port  **43.129.250.175:5566**
-
-YeLab Server (RTX 3090 * 2) LAN (内网) IP **10.8.14.239/241**; WAN(外网) SSH port  **43.129.250.175:7788** Only for emmergency use
  
 公网服务器IP：**ssr.bluedeer233.com (43.129.250.175)** (请不要在公网服务器部署任务)
 
