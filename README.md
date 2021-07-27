@@ -112,7 +112,7 @@ Please book your server usage before you start run your program on the group ser
 
 SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.245**;  WAN(外网) SSH port  **43.129.250.175:6677**
 
-SSR WS 2 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237**; WAN(外网) SSH port  **43.129.250.175:4455**
+SSR WS 2 (RTX 3090 * 1) LAN (内网) IP **10.8.14.221**; WAN(外网) SSH port  **43.129.250.175:4455**
 
 SSR WS 3 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;   WAN(外网) SSH port  **43.129.250.175:5566**
  
