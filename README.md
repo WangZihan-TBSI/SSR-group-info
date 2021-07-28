@@ -111,6 +111,7 @@ Please book your server usage before you start run your program on the group ser
 **IP address**
 
 SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.245**;  WAN(外网) SSH port  **43.129.250.175:6677**
+可以 通过 /mnt/NAS 这个路径访问文件服务器的Public部分
 
 SSR WS 2 (RTX 3090 * 1) LAN (内网) IP **10.8.14.237**; WAN(外网) SSH port  **43.129.250.175:4455**
 
