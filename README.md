@@ -130,7 +130,7 @@ Please book your server usage before you start run your program on the group ser
 
 所有服务器均可通过 /mnt/NAS/ 这个路径访问文件服务器的Public部分
 
-SSR NAS LAN (内网) IP **10.8.31.95**;  WAN(外网) SSH port **bflt.iis.pub:55651**
+SSR NAS LAN (内网) IP **10.8.31.95**;  WAN(外网) SSH port **hddx.iis.pub:55651**
 
 [NAS Usage 文件服务器使用入门](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
 
