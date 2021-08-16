@@ -36,7 +36,7 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 **物品购买前** 将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）获得**购买许可**；并抄送邱老师（qiu.kangqi@sz.tsinghua.edu.cn）或者李胜男老师（lishengnan@sz.tsinghua.edu.cn），获悉**购买方式和报销抬头**选择
 
-通常情况下 **单件/单笔 1000元以上**由邱康琪老师或李胜男老师协助购买；**单件/单笔 1000元以下** 自行垫资购买
+通常情况下 **单件/单笔 1000元以上**由邱康琪老师协助购买；**单件/单笔 1000元以下** 自行垫资购买
 
 **Buy some Books 书籍购买**
 
