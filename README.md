@@ -110,9 +110,9 @@ Please book your server usage before you start run your program on the group ser
 
 **IP address**
 
-- SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.186**;  WAN(外网) SSH port  **43.129.250.175:6677**;
+- SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.178**;  WAN(外网) SSH port  **43.129.250.175:6677**;
 
-远程桌面网页访问端口：LAN (内网) **10.8.14.186:300**;  WAN(外网)**43.129.250.175:3001**
+远程桌面网页访问端口：LAN (内网) **10.8.14.178:300**;  WAN(外网)**43.129.250.175:3001**
 
 - SSR WS 2 (RTX 3090 * 1) LAN (内网) IP **10.8.14.187**; WAN(外网) SSH port  **43.129.250.175:4455**，
 
