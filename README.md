@@ -121,14 +121,12 @@ Please book your server usage before you start run your program on the group ser
 - SSR WS 3 (RTX 5000 * 1) LAN (内网) IP **10.8.31.70**;   WAN(外网) SSH port  **ssr.bluedeer233.com:5566**，
 
 远程桌面网页访问端口：LAN (内网) IP **10.8.31.70:300**;   WAN(外网) **ssr.bluedeer233.com:3003**
- 
-公网服务器IP：**ssr.bluedeer233.com** (请不要在公网服务器部署任务)
 
-注：外网传输文件或其他需要大带宽任务请使用 Filezila 等工具通过 SFTP 挂载 NAS 再通过内网传输到服务器中;
-
-数据集和完成训练的模型等冷数据请放到大容量机械硬盘内，其挂载点为 /mnt/HDD/
+数据和模型请放到大容量机械硬盘内，其挂载点为 /mnt/HDD/
 
 所有服务器均可通过 /mnt/NAS/ 这个路径访问文件服务器的Public部分
+
+外网传输文件或其他需要大带宽任务请使用 Filezila 等工具通过 SFTP 挂载 NAS 再通过内网传输到服务器中;
 
 SSR NAS LAN (内网) IP **10.8.31.95**;  WAN(外网) SSH port **hddx.iis.pub:55651**
 
