@@ -34,7 +34,7 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 **Reimbursement 报销流程**
 
-**物品购买前** 将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）获得**购买许可**；并抄送邱老师（qiu.kangqi@sz.tsinghua.edu.cn）或者李胜男老师（lishengnan@sz.tsinghua.edu.cn），获悉**购买方式和报销抬头**选择
+**物品购买前** 将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）获得**购买许可**；并抄送邱老师（qiu.kangqi@sz.tsinghua.edu.cn），获悉**购买方式和报销抬头**选择
 
 通常情况下 **单件/单笔 1000元以上**由邱康琪老师协助购买；**单件/单笔 1000元以下** 在获得老师批准后自行垫资购买
 
@@ -58,7 +58,7 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
     
     电  话：0755-26036008
 
-**清华大学抬头：**
+**清华大学抬头：(不常用)**
 
     单位名称：清华大学
     
