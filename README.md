@@ -74,13 +74,13 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 ## IT
 
-**WiFi Connection**
+### **WiFi Connection**
 
 SSID: 1111C / 1111C_5G / 1111C_2.4G       password: ssrgroup
 
 SSID：TBSI-Guest    password: TBSI_2019
 
-**打印机使用**
+### **打印机使用**
 
 [在信息楼内网访问](http://10.8.4.170/wiki/index.php/%E6%89%93%E5%8D%B0%E6%9C%BA)可获得连接方法
 
@@ -89,7 +89,7 @@ SSID：TBSI-Guest    password: TBSI_2019
 位于1111C实验室的彩色激光打印机型号是 HP Color LaserJet MFP M281fdw，ip是 **10.8.31.39** [驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-color-laserjet-pro-m280-m281-multifunction-printer-series/14142489/model/14142491)，
 
 
-**服务器使用 Server Usage**
+### **服务器使用 Server Usage**
 
 **Open your account**
 You can contact Chengyue from our server management team to open account for you. They are happy to answer any question regarding your server usage. 
@@ -154,4 +154,4 @@ SSR NAS LAN (内网)
 
 4 - 实验台抽屉里放不下的大件物品如果使用频次不高请放在柜子里并在柜门上和柜子内放置搁板上贴标签，注明物品和使用人；如果经常使用可以放在敞开式的货架或推车上，放置位置贴好标签，注明物品名称和使用人。
 
-#### [**友情链接: 2C 大组的 Wiki**](http://10.8.4.170/）
+#### [**友情链接: 2C 大组的 Wiki**](http://10.8.4.170/）只能内网访问
