@@ -36,7 +36,7 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 **物品购买前** 将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）获得**购买许可**；并抄送邱老师（qiu.kangqi@sz.tsinghua.edu.cn）或者李胜男老师（lishengnan@sz.tsinghua.edu.cn），获悉**购买方式和报销抬头**选择
 
-通常情况下 **单件/单笔 1000元以上**由邱康琪老师协助购买；**单件/单笔 1000元以下** 自行垫资购买
+通常情况下 **单件/单笔 1000元以上**由邱康琪老师协助购买；**单件/单笔 1000元以下** 在获得老师批准后自行垫资购买
 
 **Buy some Books 书籍购买**
 
@@ -47,6 +47,16 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 原则上不买饮料，人均餐费控制在30元，开票前和邱康祺老师再确认一下，通常情况下发票开伯克利筹备办公室抬头
 
 **常用发票抬头**
+
+**深研院开票抬头：**
+    
+    单位名称：清华大学深圳国际研究生院
+    
+    统一社会信用代码（纳税人识别号）：12440300455752807L
+    
+    地  址：深圳市西丽深圳大学城清华校区A栋二楼
+    
+    电  话：0755-26036008
 
 **清华大学抬头：**
 
@@ -62,33 +72,11 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
     
     开户行账号：0200004509089131550
 
-**深研院开票抬头：**
-    
-    单位名称：清华大学深圳国际研究生院
-    
-    统一社会信用代码（纳税人识别号）：12440300455752807L
-    
-    地  址：深圳市西丽深圳大学城清华校区A栋二楼
-    
-    电  话：0755-26036008
-
-**清华-伯克利筹备办公室抬头：**
-
-    发票抬头：清华-伯克利深圳学院筹备办公室
-    
-    纳税人识别号：1244030035002941X2
-    
-    地址：深圳市南山区学苑大道1001号南山智园
-    
-    电话：86244273
-    
-    开户行：建设银行深圳后海公馆支行
-
 ## IT
 
 **WiFi Connection**
 
-SSID: 1111C         password: ssrgroup
+SSID: 1111C / 1111C_5G / 1111C_2.4G       password: ssrgroup
 
 SSID：TBSI-Guest    password: TBSI_2019
 
@@ -96,23 +84,27 @@ SSID：TBSI-Guest    password: TBSI_2019
 
 [在信息楼内网访问](http://10.8.4.170/wiki/index.php/%E6%89%93%E5%8D%B0%E6%9C%BA)可获得连接方法
 
-实验室打印机的型号是 HP LaserJet Pro MFP M226dw A02A63 ，可以扫描、复印和打印。扫描和打印可以使用 U 盘来完成。 打印机的内网地址是 http://10.8.31.90/ 。 如果想从电脑打印和扫描到电脑，电脑上要先安装 [驱动](https://support.hp.com/in-en/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)，官方驱动支持各种操作系统。另：Mac Big Sur系统会导致旧版本驱动报错，需要[更新驱动](https://support.hp.com/us-en/document/c06960563)。
+办公室打印机的黑白打印机型号是 HP LaserJet Pro MFP M226dw A02A63 ，ip是**10.8.31.90**  [驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)
 
-位于1111C的彩色激光打印机ip是 **10.8.31.39**
+位于1111C实验室的彩色激光打印机型号是 HP Color LaserJet MFP M281fdw，ip是 **10.8.31.39** [驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-color-laserjet-pro-m280-m281-multifunction-printer-series/14142489/model/14142491)，
+
 
 **服务器使用 Server Usage**
 
 **Open your account**
-You can contact Chengyue/Ziwu/Zihao/Zihan from our server management team to open account for you. They are happy to answer any question regarding your server usage. 
+You can contact Chengyue from our server management team to open account for you. They are happy to answer any question regarding your server usage. 
 
 **Book your usage**
 Please book your server usage before you start run your program on the group server. Find the "Server booking" sheet on the provided link and follow the "Rule of usage". [这个文档的 Server booking](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3)
 
 **IP address**
 
-- SSR WS 1 (RTX 3090 * 1) LAN (内网) IP **10.8.14.178**;  WAN(外网) SSH port  **ssr.bluedeer233.com:6677**;
-
-远程桌面网页访问端口：LAN (内网) **10.8.14.178:300**;  WAN(外网)**ssr.bluedeer233.com:3001**
+- SSR WS 1 (RTX 3090 * 1) 
+- LAN (内网) IP **10.8.14.178**;  
+- WAN(外网) SSH port  **ssr.bluedeer233.com:6677**;
+- 远程桌面网页访问端口：LAN (内网) **10.8.14.178:300**;  
+- WAN(外网)**ssr.bluedeer233.com:3001**
+- 主要使用者：
 
 - SSR WS 2 (RTX 3090 * 1) LAN (内网) IP **10.8.14.187**; WAN(外网) SSH port  **ssr.bluedeer233.com:4455**，
 
