@@ -97,9 +97,9 @@ You can contact Chengyue from our server management team to open account for you
 **Book your usage**
 Please book your server usage before you start run your program on the group server. Find the "Server booking" sheet on the provided link and follow the "Rule of usage". [这个文档的 Server booking](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3)
 
-**IP address**
+**Server Details**
 
-- SSR WS 1 (RTX 3090 * 1) 
+SSR WS 1 (RTX 3090 * 1) 
 - LAN (内网) IP **10.8.14.178**;  
 - WAN(外网) SSH port  **ssr.bluedeer233.com:6677**;
 - 远程桌面网页访问端口：LAN (内网) **10.8.14.178:300**;  
