@@ -139,6 +139,7 @@ SSR NAS LAN (内网)
 
 点击查看如何在服务器上使用 MatLab [**Use MATLAB on Server**](https://www.notion.so/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)
 
+4 - 访问 10.8.31.70/login 可以使用Overleaf 
 ## Safety and regulations
 
 **实验室值日排班表**
