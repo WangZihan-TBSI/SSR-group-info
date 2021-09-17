@@ -133,7 +133,7 @@ SSR NAS LAN (内网)
 
 1 - 安装anaconda环境
 
-2 - 拷贝/home/chengyue/anaconda3/envs/ml下所有文件到你的账号下anaconda环境目录
+2 - 拷贝SSR_NAS/Public/0-Installation pkgs/Ubuntu/ml.zip到你的账号下anaconda/envs
 
 3 - conda activate ml
 
