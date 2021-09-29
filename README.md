@@ -101,18 +101,20 @@ Please book your server usage before you start run your program on the group ser
 
 SSR WS 1 (RTX 3090 * 1) 
 - SSH 访问地址：LAN (内网) IP **10.8.14.178**;  WAN(外网) SSH port  **ssr.bluedeer233.com:6677**;
-- 远程桌面网页访问地址：LAN (内网) **10.8.14.178:300**; WAN(外网)**ssr.bluedeer233.com:3001**
+- 远程桌面网页访问地址：LAN (内网) **10.8.14.178:300**
 - 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, xiaoxiao, ziwu
 
 SSR WS 2 (RTX 3090 * 1) 
 - SSH 访问端口：LAN (内网) IP **10.8.14.187**; WAN(外网) SSH port  **ssr.bluedeer233.com:4455**，
-- 远程桌面网页访问端口：LAN (内网) **10.8.14.187:300**; WAN(外网)**ssr.bluedeer233.com:3002**
+- 远程桌面网页访问端口：LAN (内网) **10.8.14.187:300**
 - 主要使用者：chengyue, yuzhu, zihao
   
 SSR WS 3 (RTX 5000 * 1) 
 - SSH 访问地址：LAN (内网) IP **10.8.31.70**;   WAN(外网) SSH port  **ssr.bluedeer233.com:5566**，
-- 远程桌面网页访问端口：LAN (内网) IP **10.8.31.70:300**;   WAN(外网) **ssr.bluedeer233.com:3003**
+- 远程桌面网页访问端口：LAN (内网) IP **10.8.31.70:300**
 - 主要使用者：zihan, ziyi, eric, chenchang
+
+外网若要访问服务器远程桌面，需在实验室电脑挂好 向日葵/蒲公英 等远程桌面软件，通过实验室电脑访问
 
 SSR NAS LAN (内网) 
 - **请先阅读**[文件服务器（NAS）使用入门](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
