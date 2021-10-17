@@ -114,6 +114,12 @@ SSR WS 3 (RTX 5000 * 1)
 - 远程桌面网页访问端口：LAN (内网) IP **10.8.31.70:300**
 - 主要使用者：zihan, ziyi, eric, chenchang
 
+数据和模型请放到大容量机械硬盘内，其挂载点为 /mnt/HDD/
+
+所有服务器均可通过 /mnt/NAS/ 这个路径访问文件服务器的Public部分
+
+外网传输文件或其他需要大带宽任务请使用 Filezila 等工具通过 SFTP 挂载 NAS 再通过内网传输到服务器中;
+
 外网若要访问服务器远程桌面，需在实验室电脑挂好 向日葵/蒲公英 等远程桌面软件，通过实验室电脑访问
 
 SSR NAS LAN (内网) 
@@ -121,12 +127,6 @@ SSR NAS LAN (内网)
 - 内网 IP **10.8.31.95**;  
 - WAN(外网) SSH port **hddx.iis.pub:55651**
   
-数据和模型请放到大容量机械硬盘内，其挂载点为 /mnt/HDD/
-
-所有服务器均可通过 /mnt/NAS/ 这个路径访问文件服务器的Public部分
-
-外网传输文件或其他需要大带宽任务请使用 Filezila 等工具通过 SFTP 挂载 NAS 再通过内网传输到服务器中;
-
 **重要：请不要设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员陆诚越  If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao**
 
 **Configure the Machine Learning Environment**
