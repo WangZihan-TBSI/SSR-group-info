@@ -101,17 +101,14 @@ Please book your server usage before you start run your program on the group ser
 
 SSR WS 1 (RTX 3090 * 1) 
 - SSH 访问地址：LAN (内网) IP **10.8.14.178**;  WAN(外网) SSH port  **ssr.bluedeer233.com:6677**;
-- 远程桌面网页访问地址：LAN (内网) **10.8.14.178:300**
 - 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, xiaoxiao, ziwu
 
 SSR WS 2 (RTX 3090 * 1) 
 - SSH 访问端口：LAN (内网) IP **10.8.14.187**; WAN(外网) SSH port  **ssr.bluedeer233.com:4455**，
-- 远程桌面网页访问端口：LAN (内网) **10.8.14.187:300**
-- 主要使用者：chengyue, yuzhu, zihao
+- 主要使用者：yuzhu, zihao
   
 SSR WS 3 (RTX 5000 * 1) 
 - SSH 访问地址：LAN (内网) IP **10.8.31.70**;   WAN(外网) SSH port  **ssr.bluedeer233.com:5566**，
-- 远程桌面网页访问端口：LAN (内网) IP **10.8.31.70:300**
 - 主要使用者：zihan, ziyi, eric, chenchang
 
 数据和模型请放到大容量机械硬盘内，其挂载点为 /mnt/HDD/
