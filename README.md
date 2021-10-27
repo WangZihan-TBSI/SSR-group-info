@@ -99,6 +99,8 @@ Please book your server usage before you start run your program on the group ser
 
 **Server Details**
 
+#### 计算服务器
+
 SSR WS 1 (RTX 3090 * 1) 
 - SSH 访问地址：LAN (内网) IP **10.8.14.178**;  WAN(外网) SSH port  **ssr.bluedeer233.com:6677**;
 - 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, xiaoxiao, ziwu
@@ -117,14 +119,9 @@ SSR WS 3 (RTX 5000 * 1)
 
 外网传输文件或其他需要大带宽任务请使用 Filezila 等工具通过 SFTP 挂载 NAS 再通过内网传输到服务器中;
 
-外网若要访问服务器远程桌面，需在实验室电脑挂好 向日葵/蒲公英 等远程桌面软件，通过实验室电脑访问
-
-SSR NAS LAN (内网) 
-- **请先阅读**[文件服务器（NAS）使用入门](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
-- 内网 IP **10.8.31.95**;  
-- WAN(外网) SSH port **hddx.iis.pub:55651**
+计算服务器请通过SSH访问，若有特殊需求要使用图形化桌面请联系陆诚越
   
-**重要：请不要设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员陆诚越  If you have any question regarding Ubuntu server usage, please contact Chengyue or Zihao**
+**重要：请不要设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员陆诚越  If you have any question regarding Ubuntu server usage, please contact Chengyue**
 
 **Configure the Machine Learning Environment**
 
@@ -139,6 +136,23 @@ SSR NAS LAN (内网)
 点击查看如何在服务器上使用 MatLab [**Use MATLAB on Server**](https://www.notion.so/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)
 
 4 - 访问 10.8.31.70/login 可以使用Overleaf 
+
+#### 文件服务器 SSR NAS
+
+- **使用前请先阅读**[文件服务器（NAS）使用入门](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
+- 内网 IP **10.8.31.95**;  
+- WAN(外网) SSH port **hddx.iis.pub:55651**
+
+#### 外网访问
+
+外网若要访问实验室内的各类资源请安装SIGS的VPN https://vpn.sz.tsinghua.edu.cn/
+
+[安装指南](./SIGS-VPN快速使用指南.docx)
+
+#### Ubuntu 远程桌面
+
+2C 的服务器集群提供远程桌面功能，2C 大组的 Wiki 和集群服务器连接入口为 http://10.8.6.22/ 如需使用请联系武智源
+
 ## Safety and regulations
 
 **实验室值日排班表**
@@ -153,5 +167,3 @@ SSR NAS LAN (内网)
 3 - 每位“主理人”可以自己定义实验台上，挂板上和抽屉里各种物品的存放位置。这些位置都需要贴上标签或其他明显标识，以完善实验室资产的管理，同时也方便别人借用后放回原位。特别的，存放化学药品的抽屉或柜子必须上锁。
 
 4 - 实验台抽屉里放不下的大件物品如果使用频次不高请放在柜子里并在柜门上和柜子内放置搁板上贴标签，注明物品和使用人；如果经常使用可以放在敞开式的货架或推车上，放置位置贴好标签，注明物品名称和使用人。
-
-#### [**友情链接: 2C 大组的 Wiki**](http://10.8.6.22/）只能内网访问
