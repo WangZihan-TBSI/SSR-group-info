@@ -135,7 +135,7 @@ SSR WS 3 (RTX 5000 * 1)
 
 点击查看如何在服务器上使用 MatLab [**Use MATLAB on Server**](https://www.notion.so/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)
 
-4 - 访问 10.8.31.70/login 可以使用Overleaf 
+4 - 访问 https://overleaf.tsinghua.edu.cn/ 可以使用清华的 Overleaf 由计算机系科协、TUNA 的同学们维护，信息化技术中心提供计算资源。欢迎各位同学使用！
 
 #### 文件服务器 SSR NAS
 
