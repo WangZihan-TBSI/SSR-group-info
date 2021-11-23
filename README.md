@@ -84,9 +84,9 @@ SSID：TBSI-Guest    password: TBSI_2019
 
 [在信息楼内网访问](http://10.8.4.170/wiki/index.php/%E6%89%93%E5%8D%B0%E6%9C%BA)可获得连接方法
 
-办公室打印机的黑白打印机型号是 HP LaserJet Pro MFP M226dw A02A63 ，ip是**10.8.31.90**  [驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)
+**推荐使用**办公室打印机的黑白打印机: HP LaserJet Pro MFP M226dw A02A63 ，ip是**10.8.31.90**  [驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)
 
-位于1111C实验室的彩色激光打印机型号是 HP Color LaserJet MFP M281fdw，ip是 **10.8.31.39** [驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-color-laserjet-pro-m280-m281-multifunction-printer-series/14142489/model/14142491)，
+位于1111C实验室的彩色激光打印机: HP Color LaserJet MFP M281fdw，ip是 **10.8.31.39** [驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-color-laserjet-pro-m280-m281-multifunction-printer-series/14142489/model/14142491)，
 
 
 ### **服务器使用 Server Usage**
@@ -101,15 +101,15 @@ Please book your server usage before you start run your program on the group ser
 
 #### 计算服务器
 
-SSR WS 1 (RTX 3090 * 1) 
+SSR WS 1 (RTX 3090 * 2) 
 - SSH 访问地址：LAN (内网) IP **10.8.14.178**;  WAN(外网) SSH port  **ssr.bluedeer233.com:6677**;
-- 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, xiaoxiao, ziwu
+- 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, xiaoxiao, ziwu, Zihao(maksim)Ai, huaze
 
-SSR WS 2 (RTX 3090 * 1) 
+SSR WS 2 (RTX 3090 * 2) 
 - SSH 访问端口：LAN (内网) IP **10.8.14.187**; WAN(外网) SSH port  **ssr.bluedeer233.com:4455**，
 - 主要使用者：yuzhu, zihao
   
-SSR WS 3 (RTX 5000 * 1) 
+SSR WS 3 (RTX 3090 * 1 + RTX 5000 * 1) 
 - SSH 访问地址：LAN (内网) IP **10.8.31.70**;   WAN(外网) SSH port  **ssr.bluedeer233.com:5566**，
 - 主要使用者：zihan, ziyi, eric, chenchang
 
