@@ -10,7 +10,7 @@ Use the following text template and send Prof. Ding (ding.wenbo@sz.tsinghua.edu.
 2. Your progress in this week. (any difficulties, any findings, any trials and errors.) 
 3. Your plan in the next week. (any submission plans in the future)
 4. Your services and contributions to our group, if any.
-
+Each student have **three** times oppotunity of forget the submission.
 Remember, this is a mandatory requirement for all the students in campus while for the students not yet enrolled it is optional.
 
 ## 双周文献分享会流程 Bi-weekly Literature review meeting
