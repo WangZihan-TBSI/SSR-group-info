@@ -106,7 +106,7 @@ SSR WS 1 (RTX 3090 * 2)
 - 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, xiaoxiao, ziwu, Zihao(maksim)Ai, huaze
 
 SSR WS 2 (RTX 3090 * 2) 
-- SSH 访问端口：LAN (内网) IP **10.8.14.187**; WAN(外网) SSH port  **ssr.bluedeer233.com:4455**，
+- SSH 访问端口：LAN (内网) IP **10.8.14.221**; WAN(外网) SSH port  **ssr.bluedeer233.com:4455**，
 - 主要使用者：yuzhu, zihao
   
 SSR WS 3 (RTX 3090 * 1 + RTX 5000 * 1) 
