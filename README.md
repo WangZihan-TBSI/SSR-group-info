@@ -137,6 +137,8 @@ SSR WS 3 (RTX 3090 * 1 + RTX 5000 * 1)
 
 4 - 访问 https://overleaf.tsinghua.edu.cn/ 可以使用清华的 Overleaf 由计算机系科协、TUNA 的同学们维护，信息化技术中心提供计算资源。欢迎各位同学使用！
 
+5 - [Beta](http://10.8.31.70/login) 在WS3上搭的内网 Overleaf，实验室外访问需要登录深研院的VPN. 网址：http://10.8.31.70/login  如需使用联系王子涵
+
 #### 文件服务器 SSR NAS
 
 - **使用前请先阅读**[文件服务器（NAS）使用入门](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
