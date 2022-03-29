@@ -26,15 +26,14 @@ If you are not sure what kinds of papers are good, try to start from the top-not
 
 早上把你要分享的文献邮件和前情摘要用你在组里登记的邮箱发送至组里的邮件列表<ssrlab_tbsi@sz.tsinghua.edu.cn>
 
-你在组里登记的邮箱和你的组会出场顺序可以在这个文档的 Group LR meeting 和 Contact Information 这两个Tab里看到
-【腾讯文档】SSR Group Management
-https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
+在这个文档登记你的组会出场顺序
+【腾讯文档】SSR Group Management  https://docs.qq.com/sheet/DYklRZ2h0ZmpvZ3pj?tab=f27lf7
 
 ## Financial affairs
 
 **Reimbursement 报销流程**
 
-**物品购买前** 将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）获得**购买许可**；并抄送邱老师（qiu.kangqi@sz.tsinghua.edu.cn），获悉**购买方式和报销抬头**选择
+**物品购买前** 将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）获得**购买许可**；并抄送田冰子老师（tianbingzi@sz.tsinghua.edu.cn），获悉**购买方式和报销抬头**选择
 
 通常情况下 **单件/单笔 1000元以上**由邱康琪老师协助购买；**单件/单笔 1000元以下** 在获得老师批准后自行垫资购买
 
@@ -44,7 +43,7 @@ https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3
 
 **Prepare Catering 双周组会餐饮报销**
 
-原则上不买饮料，人均餐费控制在30元，开票前和邱康祺老师再确认一下，通常情况下发票开伯克利筹备办公室抬头
+原则上不买饮料，人均餐费控制在30元，开票前和邱康祺老师再确认一下，通常情况下发票开深研院抬头
 
 **常用发票抬头**
 
@@ -99,9 +98,13 @@ Please book your server usage before you start run your program on the group ser
 
 **Server Details**
 
+#### 外网访问
+
+外网若要访问实验室内的计算服务器和文件服务器需连接SIGS的VPN https://vpn.sz.tsinghua.edu.cn/
+
 #### 计算服务器
 
-SSR WS 1 (RTX 3090 * 2) 
+SSR WS 1 (RTX 3090 * 2) 正在维护中...
 - SSH 访问地址：LAN (内网) IP **10.8.14.237**;  WAN(外网) SSH port  **ssr.bluedeer233.com:6677**;
 - 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, xiaoxiao, ziwu, Zihao(maksim)Ai, huaze
 
@@ -109,17 +112,20 @@ SSR WS 2 (RTX 3090 * 2)
 - SSH 访问端口：LAN (内网) IP **10.8.14.221**; WAN(外网) SSH port  **ssr.bluedeer233.com:4455**，
 - 主要使用者：yuzhu, zihao
   
-SSR WS 3 (RTX 3090 * 1 + RTX 5000 * 1) 
+SSR WS 3 (RTX 3090 * 1) 
 - SSH 访问地址：LAN (内网) IP **10.8.31.70**;   WAN(外网) SSH port  **ssr.bluedeer233.com:5566**，
 - 主要使用者：zihan, ziyi, eric, chenchang
+
+ANSYS 仿真服务器（A6000*4)
+- SSH 访问地址：LAN (内网) IP **10.8.14.229**;  如需使用联系王子涵或陆诚越
+
+计算服务器请尽量通过SSH访问，若需求要使用图形化桌面，在浏览器输入服务器IP地址，后面跟 :300，如：**10.8.31.70:300**
 
 数据和模型请放到大容量机械硬盘内，其挂载点为 /mnt/HDD/
 
 所有服务器均可通过 /mnt/NAS/ 这个路径访问文件服务器的Public部分
 
 外网传输文件或其他需要大带宽任务请使用 Filezila 等工具通过 SFTP 挂载 NAS 再通过内网传输到服务器中;
-
-计算服务器请通过SSH访问，若有特殊需求要使用图形化桌面请联系陆诚越
   
 **重要：请不要设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员陆诚越  If you have any question regarding Ubuntu server usage, please contact Chengyue**
 
@@ -144,10 +150,6 @@ SSR WS 3 (RTX 3090 * 1 + RTX 5000 * 1)
 - **使用前请先阅读**[文件服务器（NAS）使用入门](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
 - 内网 IP **10.8.31.95**;  
 - WAN(外网) SSH port **hddx.iis.pub:55651**
-
-#### 外网访问
-
-外网若要访问实验室内的各类资源请安装SIGS的VPN https://vpn.sz.tsinghua.edu.cn/
 
 [安装指南](./SIGS-VPN快速使用指南.docx)
 
