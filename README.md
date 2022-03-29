@@ -1,8 +1,10 @@
 # SSR Group Info
 
+## 组内信息汇总表
+小组成员联系方式-设备使用表-值日表-个人组会-书单
+https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=fqgz1z
 
 ## [点击查看 SSR-Group 私享学习资源](https://www.notion.so/Know-How-1f66947304ce41ef9200b3171eb5e3bc)
-
 
 ## 每周工作汇报 Weekly Report
 Use the following text template and send Prof. Ding (ding.wenbo@sz.tsinghua.edu.cn) the email every Friday (no late than 11:59pm) with the theme (周工作汇报-姓名-日期 or Weekly Report-Name-YYMMDD). (English and Chinese are both fine) 
@@ -99,7 +101,7 @@ Please book your server usage before you start run your program on the group ser
 
 #### 外网访问
 
-外网若要访问实验室内的计算服务器和文件服务器需连接SIGS的VPN https://vpn.sz.tsinghua.edu.cn/
+外网若要访问实验室内的计算服务器和文件服务器需连接SIGS的VPN https://vpn.sz.tsinghua.edu.cn/  [安装指南](./SIGS-VPN快速使用指南.docx)
 
 #### 计算服务器
 
@@ -118,6 +120,7 @@ SSR WS 3 (RTX 3090 * 1)
 ANSYS 仿真服务器（A6000*4)
 - SSH 访问地址：LAN (内网) IP **10.8.14.229**;  如需使用联系王子涵或陆诚越
 
+#### Ubuntu 远程桌面
 计算服务器请尽量通过SSH访问，若需求要使用图形化桌面，在浏览器输入服务器IP地址，后面跟 :300，如：**10.8.31.70:300**
 
 数据和模型请放到大容量机械硬盘内，其挂载点为 /mnt/HDD/
@@ -138,23 +141,21 @@ ANSYS 仿真服务器（A6000*4)
 
 3 - conda activate ml
 
-点击查看如何在服务器上使用 MatLab [**Use MATLAB on Server**](https://www.notion.so/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)
+#### other information
 
-4 - 访问 https://overleaf.tsinghua.edu.cn/ 可以使用清华的 Overleaf 由计算机系科协、TUNA 的同学们维护，信息化技术中心提供计算资源。欢迎各位同学使用！
+- 点击查看如何在服务器上使用 MatLab [**Use MATLAB on Server**](https://www.notion.so/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)
 
-5 - [Beta](http://10.8.31.70/login) 在WS3上搭的内网 Overleaf，实验室外访问需要登录深研院的VPN. 网址：http://10.8.31.70/login  如需使用联系王子涵
+- 访问 https://overleaf.tsinghua.edu.cn/ 可以使用清华的 Overleaf 由计算机系科协、TUNA 的同学们维护，信息化技术中心提供计算资源。欢迎各位同学使用！
+
+- [Beta](http://10.8.31.70/login) 在WS3上搭的内网 Overleaf，实验室外访问需要登录深研院的VPN. 网址：http://10.8.31.70/login  如需使用联系王子涵
+
+- 2C 的服务器集群提供远程桌面功能，2C 大组的 Wiki 和集群服务器连接入口为 http://10.8.6.22/ 如需使用请联系武智源
 
 #### 文件服务器 SSR NAS
 
 - **使用前请先阅读**[文件服务器（NAS）使用入门](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
 - 内网 IP **10.8.31.95**;  
 - WAN(外网) SSH port **hddx.iis.pub:55651**
-
-[安装指南](./SIGS-VPN快速使用指南.docx)
-
-#### Ubuntu 远程桌面
-
-2C 的服务器集群提供远程桌面功能，2C 大组的 Wiki 和集群服务器连接入口为 http://10.8.6.22/ 如需使用请联系武智源
 
 ## Safety and regulations
 
