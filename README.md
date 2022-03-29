@@ -35,7 +35,7 @@ If you are not sure what kinds of papers are good, try to start from the top-not
 
 **物品购买前** 将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）获得**购买许可**；并抄送田冰子老师（tianbingzi@sz.tsinghua.edu.cn），获悉**购买方式和报销抬头**选择
 
-通常情况下 **单件/单笔 1000元以上**由邱康琪老师协助购买；**单件/单笔 1000元以下** 在获得老师批准后自行垫资购买
+通常情况下 **单件/单笔 1000元以上**由田冰子老师协助购买；**单件/单笔 1000元以下** 在获得老师批准后自行垫资购买
 
 **Buy some Books 书籍购买**
 
@@ -86,7 +86,6 @@ SSID：TBSI-Guest    password: TBSI_2019
 **推荐使用**办公室打印机的黑白打印机: HP LaserJet Pro MFP M226dw A02A63 ，ip是**10.8.31.90**  [驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)
 
 位于1111C实验室的彩色激光打印机: HP Color LaserJet MFP M281fdw，ip是 **10.8.31.39** [驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-color-laserjet-pro-m280-m281-multifunction-printer-series/14142489/model/14142491)，
-
 
 ### **服务器使用 Server Usage**
 
