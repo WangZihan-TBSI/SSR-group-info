@@ -103,20 +103,30 @@ Please book your server usage before you start run your program on the group ser
 
 #### 计算服务器
 
-SSR WS 1 (RTX 3090 * 2) 正在维护中...
-- SSH 访问地址：LAN (内网) IP **10.8.14.237**;  WAN(外网) SSH port  **ssr.bluedeer233.com:6677**;
-- 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, xiaoxiao, ziwu, Zihao(maksim)Ai, huaze
+SSR WS 1 (RTX 3090 * 2) 服务器会自动休眠，如需临时访问请在WS2服务器的命令行输入如下指令后回车，唤醒WS1
+
+    wakeonlan a4:bb:6d:e0:a7:c0 
+    
+- LAN (内网) IP **10.8.14.237**
+- WAN(外网) SSH port  **ssr.bluedeer233.com:6677**;
+- MAC（网卡号）: a4:bb:6d:e0:a7:c0
+- 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, ziwu, Zihao(maksim)Ai, huaze
 
 SSR WS 2 (RTX 3090 * 2) 
-- SSH 访问端口：LAN (内网) IP **10.8.14.221**; WAN(外网) SSH port  **ssr.bluedeer233.com:4455**，
+- LAN (内网) IP **10.8.14.221**
+- WAN(外网) SSH port  **ssr.bluedeer233.com:4455**
+- MAC（网卡号）: a4:bb:6d:d1:6e:2d
 - 主要使用者：yuzhu, zihao
   
 SSR WS 3 (RTX 3090 * 1) 
-- SSH 访问地址：LAN (内网) IP **10.8.31.70**;   WAN(外网) SSH port  **ssr.bluedeer233.com:5566**，
-- 主要使用者：zihan, ziyi, eric, chenchang
+- LAN (内网) IP **10.8.31.70**
+- WAN(外网) SSH port  **ssr.bluedeer233.com:5566**
+- MAC（网卡号）: b0:7b:25:07:49:04
+- 主要使用者：zihan, ziyi, eric, chenchang, Zihao(maksim)Ai
 
 ANSYS 仿真服务器（A6000*4)
-- SSH 访问地址：LAN (内网) IP **10.8.14.229**;  如需使用联系王子涵或陆诚越
+- SSH 访问地址：LAN (内网) IP **10.8.14.229**
+- 如需使用联系王子涵或陆诚越
 
 #### Ubuntu 远程桌面
 计算服务器请尽量通过SSH访问，若需求要使用图形化桌面，在浏览器输入服务器IP地址，后面跟 :300，如：**10.8.31.70:300**
