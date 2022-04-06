@@ -1,10 +1,10 @@
 # SSR Group Info
 
 ## **组内信息汇总表**
-- [点击查看](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=fqgz1z)小组成员联系方式-设备使用表-值日表-个人组会-书单
+[点击查看](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=fqgz1z)小组成员联系方式-设备使用表-值日表-个人组会-书单
 
 ## **Tips for your academic journey**
-- [点击查看](https://www.notion.so/Know-How-1f66947304ce41ef9200b3171eb5e3bc) SSR 小组的知识库
+[点击查看](https://www.notion.so/Know-How-1f66947304ce41ef9200b3171eb5e3bc) SSR 小组的知识库
 
 ## **每周工作汇报 Weekly Report**
 Use the following text template and send Prof. Ding (ding.wenbo@sz.tsinghua.edu.cn) the email every Friday (no late than 11:59pm) with the theme (周工作汇报-姓名-日期 or Weekly Report-Name-YYMMDD). (English and Chinese are both fine) 
@@ -85,26 +85,28 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 ## **打印机使用 Printer Usage**
 
-- **推荐使用** 办公室打印机的黑白打印机: HP LaserJet Pro MFP M226dw A02A63，可以扫描、复印和打印，支持插 U 盘使用。如果想从电脑打印和扫描，电脑上要先安装[驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)，打印机内网地址是：10.8.31.90
+**推荐使用** 办公室打印机的黑白打印机: HP LaserJet Pro MFP M226dw A02A63，可以扫描、复印和打印，支持插 U 盘使用。如果想从电脑打印和扫描，电脑上要先安装[驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)，打印机内网地址是：10.8.31.90
 
-- 位于1111C实验室的彩色激光打印机: HP Color LaserJet MFP M281fdw，ip是 **10.8.31.39** [点击下载驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-color-laserjet-pro-m280-m281-multifunction-printer-series/14142489/model/14142491)，
+位于1111C实验室的彩色激光打印机: HP Color LaserJet MFP M281fdw，ip是 **10.8.31.39** [点击下载驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-color-laserjet-pro-m280-m281-multifunction-printer-series/14142489/model/14142491)，
 
 ## **服务器使用 Server Usage**
 
-- 开2C实验室计算集群账户和使用咨询联系武智源
-- 开SSR小组计算服务器账户和使用咨询联系陆诚越
-- 开SSR小组文件存储服务器（NAS）账户和使用咨询联系王子涵
+开2C实验室计算集群账户和使用咨询联系武智源
+
+开SSR小组计算服务器账户和使用咨询联系陆诚越
+
+开SSR小组文件存储服务器（NAS）账户和使用咨询联系王子涵
 
 #### **2C 实验室高性能计算集群（推荐）**
 - LAN (内网) IP **10.8.6.22**
-- 使用远程桌面功能在浏览器输入 *http://10.8.6.22:300* 
-- 2C 大组的 Wiki 和其他IT资源的使用可在浏览器输入 *http://10.8.6.22* 查看（信息楼外访问需要登录深研院的VPN）
+- 使用远程桌面功能在浏览器输入 [*http://10.8.6.22:300*](http://10.8.6.22:300)
+- 2C 大组的 Wiki 和其他IT资源的使用可在浏览器输入 [*http://10.8.6.22*](http://10.8.6.22) 查看（信息楼外访问需要登录深研院的VPN）
 
 #### **SSR 小组计算服务器**
 
 SSR WS 1 (RTX 3090 * 2) 
-- 这台服务器目前会自动休眠，如需临时访问请在WS2服务器的命令行输入如下指令后回车，唤醒WS1
 
+    >/ 这台服务器目前会自动休眠，如需临时访问请在WS2服务器的命令行输入如下指令后回车，唤醒WS1
     wakeonlan a4:bb:6d:e0:a7:c0 
     
 - LAN (内网) IP **10.8.14.237**
@@ -129,9 +131,9 @@ ANSYS 仿真服务器（A6000*4)
 
 **SSR 计算服务器使用须知**
 
-- **「重要」请不要设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员陆诚越  If you have any question regarding Ubuntu server usage, please contact Chengyue**
+**「重要」请不要设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员陆诚越  If you have any question regarding Ubuntu server usage, please contact Chengyue**
 
-- 长时间运行大计算量的任务（single task > 24 Hour）请在表中的"Server booking"。[点击进入预定表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3)
+- 长时间运行大计算量的任务（single task > 24 Hour）请微信告知陆诚越，并在[组内信息汇总表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3)的"Server booking"栏填入使用预定。
 
 - 由于每台计算服务器最多只支持5人同时使用远程GUI，因此请尽量通过SSH访问，若有特殊需求要使用图形化界面，在浏览器输入服务器IP地址，后面跟 :300，如：**10.8.31.70:300**。使用完毕后请注销。
 
@@ -145,7 +147,7 @@ ANSYS 仿真服务器（A6000*4)
 
 - 配置机器学习环境
 
-    由于实验室网络条件有限，自行安装pytorch、tensorflow环境可能会遇到阻碍，在此Chengyue已为大家配置好pytorch==1.7.1+cu110,tensorflow-gpu==2.4.0,keras==2.4.3等机器学习常用包，安装步骤如下:
+    由于实验室网络条件有限，自行安装pytorch、tensorflow环境可能会遇到阻碍，陆诚越已为大家配置好pytorch==1.7.1+cu110,tensorflow-gpu==2.4.0,keras==2.4.3等机器学习常用包，安装步骤如下:
 
     1 - 安装anaconda环境
 
@@ -168,13 +170,13 @@ ANSYS 仿真服务器（A6000*4)
     期刊/会议论文撰写: 联系丁老师，使用Overleaf官方付费版（支持10人同时协作）
     
     个人项目或写大作业可以
-    - 使用由清华计算机系科协、TUNA 的同学们维护的[清华Overleaf](https://overleaf.tsinghua.edu.cn/) *使用清华统一身份认证登录，能直接校外访问*
-    - 使用[2C服务器集群上的Overleaf](http://10.8.6.21:8031/) *联系武智源开账户，信息楼外访问需要登录深研院的VPN*
-    - 组里 WS3 上搭的[SSR Overleaf](http://10.8.31.70/login) *联系王子涵开账户，信息楼外访问需要登录深研院的VPN*
+    - 使用由清华计算机系科协、TUNA 的同学们维护的[清华Overleaf](https://overleaf.tsinghua.edu.cn/) （*使用清华统一身份认证登录，能直接校外访问*）
+    - 使用[2C服务器集群上的Overleaf](http://10.8.6.21:8031/) （*联系武智源开账户，信息楼外访问需要登录深研院的VPN*）
+    - 组里 WS3 上搭的[SSR Overleaf](http://10.8.31.70/login) （*联系王子涵开账户，信息楼外访问需要登录深研院的VPN*）
 
 - 实验室电脑广域网远程访问方法——蒲公英 [点击下载](./实验室电脑蒲公英远程访问方法.pdf)教程
 
-## **Safety and regulations**
+## **实验室安全规定Safety and regulations**
 
 **实验室值日排班表**
 [这个文档的Lab duty schedule](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=q1nf9a)包含每周负责值日的2位同学和大致任务分工。
