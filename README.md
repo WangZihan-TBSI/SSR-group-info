@@ -134,19 +134,19 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 SSR WS 1 (RTX 3090 * 2) 
 - LAN (内网) IP **10.8.14.237**
-- WAN(外网) SSH port  **ssr.bluedeer233.com:6677**;
+- WAN(外网) SSH port  **ssr.bluedeer233.com:6677** （请不要外传！！！）
 - MAC（网卡号）: a4:bb:6d:e0:a7:c0
 - 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, ziwu, Zihao(maksim)Ai, huaze
 
 SSR WS 2 (RTX 3090 * 2) 
 - LAN (内网) IP **10.8.14.221**
-- WAN(外网) SSH port  **ssr.bluedeer233.com:4455**
+- WAN(外网) SSH port  **ssr.bluedeer233.com:4455** （请不要外传！！！）
 - MAC（网卡号）: a4:bb:6d:d1:6e:2d
 - 主要使用者：yuzhu, zihao
   
 SSR WS 3 (RTX 3090 * 1) 
 - LAN (内网) IP **10.8.31.70**
-- WAN(外网) SSH port  **ssr.bluedeer233.com:5566**
+- WAN(外网) SSH port  **ssr.bluedeer233.com:5566** （请不要外传！！！）
 - MAC（网卡号）: b0:7b:25:07:49:04
 - 主要使用者：zihan, ziyi, eric, chenchang, Zihao(maksim)Ai
 
@@ -158,7 +158,7 @@ ANSYS 仿真服务器（A6000*4)
 
 - **使用前请先阅读**[文件服务器（NAS）使用入门](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
 - 内网 IP **10.8.31.95**;  
-- WAN(外网) SSH port **hddx.iis.pub:55651**
+- WAN(外网) SSH port **hddx.iis.pub:55651** （请不要外传！！！）
 
 ## **IT 杂项**
 
