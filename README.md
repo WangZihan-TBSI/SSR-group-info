@@ -104,31 +104,6 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 #### **SSR 小组计算服务器**
 
-SSR WS 1 (RTX 3090 * 2) 
-
-    >/ 这台服务器目前会自动休眠，如需临时访问请在WS2服务器的命令行输入如下指令后回车，唤醒WS1
-    wakeonlan a4:bb:6d:e0:a7:c0 
-    
-- LAN (内网) IP **10.8.14.237**
-- WAN(外网) SSH port  **ssr.bluedeer233.com:6677**;
-- MAC（网卡号）: a4:bb:6d:e0:a7:c0
-- 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, ziwu, Zihao(maksim)Ai, huaze
-
-SSR WS 2 (RTX 3090 * 2) 
-- LAN (内网) IP **10.8.14.221**
-- WAN(外网) SSH port  **ssr.bluedeer233.com:4455**
-- MAC（网卡号）: a4:bb:6d:d1:6e:2d
-- 主要使用者：yuzhu, zihao
-  
-SSR WS 3 (RTX 3090 * 1) 
-- LAN (内网) IP **10.8.31.70**
-- WAN(外网) SSH port  **ssr.bluedeer233.com:5566**
-- MAC（网卡号）: b0:7b:25:07:49:04
-- 主要使用者：zihan, ziyi, eric, chenchang, Zihao(maksim)Ai
-
-ANSYS 仿真服务器（A6000*4)
-- SSH 访问地址：LAN (内网) IP **10.8.14.229**
-
 **SSR 计算服务器使用须知**
 
 **「重要」请不要设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员陆诚越  If you have any question regarding Ubuntu server usage, please contact Chengyue**
@@ -154,6 +129,30 @@ ANSYS 仿真服务器（A6000*4)
     2 - 拷贝SSR_NAS/Public/0-Installation pkgs/Ubuntu/ml.zip到你的账号下anaconda/envs
 
     3 - conda activate ml
+
+**SSR 计算服务器连接信息**
+
+SSR WS 1 (RTX 3090 * 2) 
+- LAN (内网) IP **10.8.14.237**
+- WAN(外网) SSH port  **ssr.bluedeer233.com:6677**;
+- MAC（网卡号）: a4:bb:6d:e0:a7:c0
+- 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, ziwu, Zihao(maksim)Ai, huaze
+
+SSR WS 2 (RTX 3090 * 2) 
+- LAN (内网) IP **10.8.14.221**
+- WAN(外网) SSH port  **ssr.bluedeer233.com:4455**
+- MAC（网卡号）: a4:bb:6d:d1:6e:2d
+- 主要使用者：yuzhu, zihao
+  
+SSR WS 3 (RTX 3090 * 1) 
+- LAN (内网) IP **10.8.31.70**
+- WAN(外网) SSH port  **ssr.bluedeer233.com:5566**
+- MAC（网卡号）: b0:7b:25:07:49:04
+- 主要使用者：zihan, ziyi, eric, chenchang, Zihao(maksim)Ai
+
+ANSYS 仿真服务器（A6000*4)
+- SSH 访问地址：LAN (内网) IP **10.8.14.229**
+
 
 #### **文件服务器 SSR NAS**
 
