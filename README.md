@@ -108,7 +108,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 **「重要」请不要设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员  If you have any question regarding Ubuntu server usage, please contact the server manager**
 
-- 长时间运行大计算量的任务（single task > 24 Hour）请微信告知陆诚越，并在[组内信息汇总表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3)的"Server booking"栏填入使用预定。
+- 长时间运行大计算量的任务（single task > 24 Hour）请微信告知服务器管理员，并在[组内信息汇总表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3)的"Server booking"栏填入使用预定。
 
 - 无法预估cpu占用导致影响到他人正常使用的程序，可使用`cpulimit -i -l [物理线程数量*100] [程序指令]`手动限制cpu占用，例：`cpulimit -i -l 100 python main.py`，或优化代码，限制线程数；**禁止在任何情况下占满cpu资源，至少留出4个核心保证基础服务运行**
 
