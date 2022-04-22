@@ -116,9 +116,9 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - 由于每台计算服务器最多只支持5人同时使用远程GUI，因此请尽量通过SSH访问，若有特殊需求要使用图形化界面，在浏览器输入服务器IP地址，后面跟 :300，如：**10.8.31.70:300** 使用完毕后记得要注销
 
-- 数据和模型请放到大容量机械硬盘内，其挂载点为 /mnt/HDD/
+- 数据和模型请放到大容量机械硬盘内，其挂载点为 **/mnt/HDD/**
 
-- 所有服务器均可通过 /mnt/NAS/ 这个路径访问文件服务器的Public部分
+- 访问文件服务器的Public分区的挂载点为 **/mnt/NAS/**，向NAS内写入或删除文件需 sudo 权限
 
 - 外网传输文件或其他需要大带宽任务请使用 Filezila 等工具通过 SFTP 挂载 NAS 再通过内网传输到服务器中
 
