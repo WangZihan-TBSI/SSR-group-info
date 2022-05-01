@@ -108,7 +108,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 **「重要」请不要设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员陆诚越  If you have any question regarding Ubuntu server usage, please contact Chengyue**
 
-- 长时间运行大计算量的任务（single task > 24 Hour）请微信告知陆诚越，并在[组内信息汇总表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3)的"Server booking"栏填入使用预定。
+- 一年级新生（研一、博一）需要使用服务器的sudo权限请填写[SSR 计算服务器sudo权限申请表](https://docs.qq.com/form/page/DTXVYRmVyUm5uWG1i)，并将填写界面截图微信发送赵子号。
 
 - 由于每台计算服务器最多只支持5人同时使用远程GUI，因此请尽量通过SSH访问，若有特殊需求要使用图形化界面，在浏览器输入服务器IP地址，后面跟 :300，如：**10.8.31.70:300** 使用完毕后记得要注销
 
@@ -118,17 +118,14 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - 外网传输文件或其他需要大带宽任务请使用 Filezila 等工具通过 SFTP 挂载 NAS 再通过内网传输到服务器中
 
-- 在服务器上使用 MatLab [**Use MATLAB on Server**](https://thuwangzihan.notion.site/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)
+- [点击查看] (https://thuwangzihan.notion.site/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)在服务器上使用 MatLab 的方法
 
 - 配置机器学习环境
 
     由于实验室网络条件有限，自行安装pytorch、tensorflow环境可能会遇到阻碍，陆诚越已为大家配置好pytorch==1.7.1+cu110,tensorflow-gpu==2.4.0,keras==2.4.3等机器学习常用包，安装步骤如下:
-
-    1 - 安装anaconda环境
-
-    2 - 拷贝SSR_NAS/Public/0-Installation pkgs/Ubuntu/ml.zip到你的账号下anaconda/envs
-
-    3 - conda activate ml
+    1、安装anaconda环境
+    2、拷贝SSR_NAS/Public/0-Installation pkgs/Ubuntu/ml.zip到你的账号下anaconda/envs
+    3、conda activate ml
 
 **SSR 计算服务器连接信息**
 
