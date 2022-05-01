@@ -135,6 +135,8 @@ Remember, this is a mandatory requirement for all the students in campus while f
     1、安装anaconda环境
     2、拷贝SSR_NAS/Public/0-Installation pkgs/Ubuntu/ml.zip到你的账号下anaconda/envs
     3、conda activate ml
+    4、替换ml/bin/pip、ml/bin/pip3、ml/bin/pip3.7第一行中chengyue为\[你的账户名\]
+    由于tensorflow1.x官方不支持30系列显卡，chengyue已为大家配置好支持30系显卡的tf1.15环境：`python==3.8.12 nvidia-tensorflow==1.15.5+nv21.9, pytorch==1.8.1`，环境保存在ws1:/home/chengyue/anaconda3/envs/tf，移植步骤与ml类似
 =======
     由于实验室网络条件有限，自行安装pytorch、tensorflow环境可能会遇到阻碍，chengyue已为大家配置好`python==3.7.9 pytorch==1.7.1+cu110, tensorflow-gpu==2.4.0`等机器学习常用包，安装步骤如下:
 
