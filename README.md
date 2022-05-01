@@ -108,15 +108,14 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 **「重要」请不要设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员  If you have any question regarding Ubuntu server usage, please contact the server manager**
 
-<<<<<<< HEAD
 - 一年级新生（研一、博一）需要使用服务器的sudo权限请填写[SSR 计算服务器sudo权限申请表](https://docs.qq.com/form/page/DTXVYRmVyUm5uWG1i)，并将填写界面截图微信发送赵子号。
-=======
+
 - 长时间运行大计算量的任务（single task > 24 Hour）请微信告知服务器管理员，并在[组内信息汇总表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3)的"Server booking"栏填入使用预定。
 
-- 无法预估cpu占用导致影响到他人正常使用的程序，可使用`cpulimit -i -l [物理线程数量*100] [程序指令]`手动限制cpu占用，例：`cpulimit -i -l 100 python main.py`，或优化代码，限制线程数；**禁止在任何情况下占满cpu资源，至少留出4个核心保证基础服务运行**
+- 无法预估cpu占用导致影响到他人正常使用的程序，可使用`cpulimit -i -l [物理线程数量*100] [程序指令]`手动限制cpu占用，
+例：`cpulimit -i -l 100 python main.py`，或优化代码，限制线程数；**禁止在任何情况下占满cpu资源，至少留出4个核心保证基础服务运行**
 
 - 遇到长期占用资源（内存、显存）**且正在运行**导致他人无法使用的情况，请先用`sudo ps aux | grep [your_PID]`指令查询到所属用户，联系对应用户；**长期占用内存/显存且没有动静的程序可直接kill掉**
->>>>>>> 13053c58c45e1d824e87aac871b15443d1e58425
 
 - 由于每台计算服务器最多只支持5人同时使用远程GUI，因此请尽量通过SSH访问，若有特殊需求要使用图形化界面，在浏览器输入服务器IP地址，后面跟 :300，如：**10.8.31.70:300** 使用完毕后记得要注销
 
@@ -130,14 +129,6 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - 配置机器学习环境
 
-<<<<<<< HEAD
-    由于实验室网络条件有限，自行安装pytorch、tensorflow环境可能会遇到阻碍，陆诚越已为大家配置好pytorch==1.7.1+cu110,tensorflow-gpu==2.4.0,keras==2.4.3等机器学习常用包，安装步骤如下:
-    1、安装anaconda环境
-    2、拷贝SSR_NAS/Public/0-Installation pkgs/Ubuntu/ml.zip到你的账号下anaconda/envs
-    3、conda activate ml
-    4、替换ml/bin/pip、ml/bin/pip3、ml/bin/pip3.7第一行中chengyue为\[你的账户名\]
-    由于tensorflow1.x官方不支持30系列显卡，chengyue已为大家配置好支持30系显卡的tf1.15环境：`python==3.8.12 nvidia-tensorflow==1.15.5+nv21.9, pytorch==1.8.1`，环境保存在ws1:/home/chengyue/anaconda3/envs/tf，移植步骤与ml类似
-=======
     由于实验室网络条件有限，自行安装pytorch、tensorflow环境可能会遇到阻碍，chengyue已为大家配置好`python==3.7.9 pytorch==1.7.1+cu110, tensorflow-gpu==2.4.0`等机器学习常用包，安装步骤如下:
 
     1 - 安装anaconda环境
@@ -149,7 +140,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
     4 - 替换ml/bin/pip、ml/bin/pip3、ml/bin/pip3.7第一行中chengyue为\[你的账户名\]
     
     由于tensorflow1.x官方不支持30系列显卡，chengyue已为大家配置好支持30系显卡的tf1.15环境：`python==3.8.12 nvidia-tensorflow==1.15.5+nv21.9, pytorch==1.8.1`，环境保存在ws1:/home/chengyue/anaconda3/envs/tf，移植步骤与ml类似
->>>>>>> 13053c58c45e1d824e87aac871b15443d1e58425
+
 
 **SSR 计算服务器连接信息**
 
