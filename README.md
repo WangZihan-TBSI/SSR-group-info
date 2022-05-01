@@ -125,7 +125,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - 外网传输文件或其他需要大带宽任务请使用 Filezila 等工具通过 SFTP 挂载 NAS 再通过内网传输到服务器中
 
-- [点击查看] (https://thuwangzihan.notion.site/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)在服务器上使用 MatLab 的方法
+- 在服务器上使用 MatLab 的方法 [点击查看](https://thuwangzihan.notion.site/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)
 
 - 配置机器学习环境
 
@@ -140,7 +140,6 @@ Remember, this is a mandatory requirement for all the students in campus while f
     4 - 替换ml/bin/pip、ml/bin/pip3、ml/bin/pip3.7第一行中chengyue为\[你的账户名\]
     
     由于tensorflow1.x官方不支持30系列显卡，chengyue已为大家配置好支持30系显卡的tf1.15环境：`python==3.8.12 nvidia-tensorflow==1.15.5+nv21.9, pytorch==1.8.1`，环境保存在ws1:/home/chengyue/anaconda3/envs/tf，移植步骤与ml类似
-
 
 **SSR 计算服务器连接信息**
 
