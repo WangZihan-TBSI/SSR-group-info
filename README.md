@@ -85,15 +85,22 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 ## **打印机使用 Printer Usage**
 
-**推荐使用** 办公室打印机的黑白打印机: HP LaserJet Pro MFP M226dw A02A63，可以扫描、复印和打印，支持插 U 盘使用。如果想从电脑打印和扫描，电脑上要先安装[驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)，打印机内网地址是：10.8.31.90
+**推荐使用** 1111B 办公室的黑白打印机: 
+- HP LaserJet Pro MFP M226dw A02A63
+- 内网地址(IP): **10.8.31.90**
+- 可以扫描、复印和打印，支持插 U 盘使用。
+- 如果想从电脑打印和扫描请 [下载安装驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)，
 
-位于1111C实验室的彩色激光打印机: HP Color LaserJet MFP M281fdw，ip是 **10.8.31.39** 。[点击下载驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-color-laserjet-pro-m280-m281-multifunction-printer-series/14142489/model/14142491)
+**彩印专用** 1111C 实验室的打印机: 
+- HP Color LaserJet MFP M281fdw，
+- 内网地址(IP): **10.8.31.39** 
+- 如果想从电脑打印和扫描请 [下载安装驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-color-laserjet-pro-m280-m281-multifunction-printer-series/14142489/model/14142491)
 
 ## **服务器使用 Server Usage**
 
 开2C实验室计算集群账户和使用咨询联系武智源
 
-开SSR小组计算服务器账户和使用咨询联系陆诚越
+开SSR小组计算服务器账户和计算服务器使用咨询联系陆诚越或赵子号
 
 开SSR小组文件存储服务器（NAS）账户和使用咨询联系王子涵
 
@@ -161,9 +168,9 @@ SSR WS 3 (RTX 3090 * 1)
 - MAC（网卡号）: b0:7b:25:07:49:04
 - 主要使用者：zihan, ziyi, eric, chenchang, Zihao(maksim)Ai
 
-ANSYS 仿真服务器（A6000*4)
+叶旻老师服务器YeLab（A6000*4)
 - SSH 访问地址：LAN (内网) IP **10.8.14.229**
-
+- 进行大规模仿真或训练专用，如有上述需求，请私聊陆诚越申请临时使用权限
 
 ### **文件服务器 SSR NAS**
 
