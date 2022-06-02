@@ -4,7 +4,19 @@
 [点击查看](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=fqgz1z)小组成员联系方式-设备使用表-值日表-个人组会-书单
 
 ## **Tips for your academic journey**
-[点击查看](https://www.notion.so/Know-How-1f66947304ce41ef9200b3171eb5e3bc) SSR 小组的知识库
+[点击查看](https://thuwangzihan.notion.site/Know-How-1f66947304ce41ef9200b3171eb5e3bc) SSR 小组的知识库
+    
+- [Literature Review Meeting Archive ](https://www.notion.so/Literature-Review-Meeting-Archive-4cd63724cb76414e9a27c5dca14080c9)
+
+- [Use MATLAB on Server 在服务器上使用 MATLAB](https://www.notion.so/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)
+
+- [Fileserver Usage 文件服务器使用](https://www.notion.so/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
+
+- [直线电机使用教程](https://www.notion.so/57a4175fe98a43a2ad2339ab8de2732b)
+
+- [使用GitHub搭建个人网站](https://www.notion.so/GitHub-112f6de7e5344f9a97052d24f41fb937)
+
+- [3D打印机使用要求](https://www.notion.so/3D-TBD-914d6eaa832741c89036cecf344052b2)
 
 ## **每周工作汇报 Weekly Report**
 Use the following text template and send Prof. Ding (ding.wenbo@sz.tsinghua.edu.cn) the email every Friday (no late than 11:59pm) with the theme (周工作汇报-姓名-日期 or Weekly Report-Name-YYMMDD). (English and Chinese are both fine) 
