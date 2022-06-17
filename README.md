@@ -121,7 +121,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - 一年级新生（研一、博一）需要使用服务器的sudo权限请填写[SSR 计算服务器sudo权限申请表](https://docs.qq.com/form/page/DTXVYRmVyUm5uWG1i)，并将填写界面截图微信发送赵子号。
 
-- 长时间运行大计算量的任务（single task > 24 Hour）请微信告知服务器管理员，并在[组内信息汇总表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3)的"Server booking"栏填入使用预定。
+- 需长时间占用CPU/GPU运行大计算量的任务请微信告知服务器管理员赵子号，许可后方能执行
 
 - 无法预估cpu占用导致影响到他人正常使用的程序，可使用`cpulimit -i -l [物理线程数量*100] [程序指令]`手动限制cpu占用，
 例：`cpulimit -i -l 100 python main.py`，或优化代码，限制线程数；**禁止在任何情况下占满cpu资源，至少留出4个核心保证基础服务运行**
@@ -203,7 +203,7 @@ SSR WS 3 (RTX 3090 * 1)
 ## **实验室安全规定Safety and regulations**
 
 **初次使用仪器/设备请务必通过**
-[这个文档的Equipment Usage](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=q1nf9a)列出的对应仪器负责同学的培训及独立操作许可
+[这个文档的Equipment Usage](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=ecmdc9)列出的对应仪器负责同学的培训及独立操作许可
 
 **实验室值日排班表**
 [这个文档的Lab duty schedule](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=q1nf9a)包含每周负责值日的2位同学和大致任务分工
