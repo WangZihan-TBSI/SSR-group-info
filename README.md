@@ -6,6 +6,9 @@
 ## **Tips for your academic journey**
 [点击查看SSR 小组的知识库](https://thuwangzihan.notion.site/Know-How-1f66947304ce41ef9200b3171eb5e3bc) 
 
+**知识库上新**
+- [ATI-Nano43力传感器使用](https://local-sulfur-e69.notion.site/ATI-Nano43-Zenan-e91e7c67e5fc4c3ca7ab977b2ac752bc)
+
 - [直线电机使用教程](https://thuwangzihan.notion.site/57a4175fe98a43a2ad2339ab8de2732b)
 
 - [3D打印机使用要求](https://thuwangzihan.notion.site/3D-TBD-914d6eaa832741c89036cecf344052b2)
