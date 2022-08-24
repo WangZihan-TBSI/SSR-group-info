@@ -92,14 +92,14 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 ## **打印机使用 Printer Usage**
 
-**推荐使用** 1111B 办公室的黑白打印机: 
-- HP LaserJet Pro MFP M226dw A02A63
-- 内网地址(IP): **10.8.31.90**
+**推荐使用** 1111B 办公室的京瓷打印机: 
+- 打印机名称：Kyocera ECOSYS M2635dn KX
+- 内网地址(IP): **10.8.31.223**
 - 可以扫描、复印和打印，支持插 U 盘使用。
-- 如果想从电脑打印和扫描请 [下载安装驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-laserjet-pro-mfp-m226-series/6778492/model/6778500)，
+- 如果想从电脑打印和扫描请 [下载安装驱动](https://www.kyoceradocumentsolutions.com.cn/support/mfp/download/index.html)，
 
-**彩印专用** 1111C 实验室的打印机: 
-- HP Color LaserJet MFP M281fdw，
+**彩印专用** 1111C 实验室的惠普打印机: 
+- 打印机名称：HP Color LaserJet MFP M281fdw，
 - 内网地址(IP): **10.8.31.39** 
 - 如果想从电脑打印和扫描请 [下载安装驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-color-laserjet-pro-m280-m281-multifunction-printer-series/14142489/model/14142491)
 
