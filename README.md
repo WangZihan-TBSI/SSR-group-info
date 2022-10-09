@@ -26,11 +26,11 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - **Know the LR regulation**
 
-    [点击下载](./LR实行规定.docx)文献分享会的各项规定。
+    [点击查看](https://docs.qq.com/doc/DQUVPZ05SamtBak1y)文献分享会的各项规定。
 
 - **登记你的组会出场顺序** 
 
-    [Registration Sheet](https://docs.qq.com/sheet/DYklRZ2h0ZmpvZ3pj?tab=f27lf7) 
+    [点击查看](https://docs.qq.com/sheet/DYklRZ2h0ZmpvZ3pj?tab=qtnvsx) 
 
 - **挑选文献**
 
