@@ -84,7 +84,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 ## **无线网络 WiFi Connection**
 
-    SSID: 1111C / 1111C_5G / 1111C_2.4G       
+    SSID: TBSI_SSR_5G / TBSI_SSR_2.4G       
     password: ssrgroup
 
     SSID：TBSI-Guest   
