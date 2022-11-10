@@ -97,6 +97,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 - 内网地址(IP): **10.8.31.223**
 - 可以扫描、复印和打印，支持插 U 盘使用。
 - 如果想从电脑打印和扫描请 [下载安装驱动](https://www.kyoceradocumentsolutions.com.cn/support/mfp/download/index.html)，
+- [点击下载详细设置方法](./11楼打印机配置.pdf)
 
 **彩印专用** 1111C 实验室的惠普打印机: 
 - 打印机名称：HP Color LaserJet MFP M281fdw，
@@ -161,30 +162,28 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 SSR WS 1 (RTX 3090 * 2) 
 - LAN (内网) IP **10.8.14.154**
-- WAN(外网) SSH port  **ssr.bluedeer233.com:6677** （请不要外传！！！）
 - MAC（网卡号）: a4:bb:6d:e0:a7:c0
 - 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, ziwu, Zihao(maksim)Ai, huaze
 
 SSR WS 2 (RTX 3090 * 2) 
 - LAN (内网) IP **10.8.14.221**
-- WAN(外网) SSH port  **ssr.bluedeer233.com:4455** （请不要外传！！！）
 - MAC（网卡号）: a4:bb:6d:d1:6e:2d
 - 主要使用者：yuzhu, zihao
   
 SSR WS 3 (RTX 3090 * 1) 
 - LAN (内网) IP **10.8.31.70**
-- WAN(外网) SSH port  **ssr.bluedeer233.com:5566** （请不要外传！！！）
 - MAC（网卡号）: b0:7b:25:07:49:04
 - 主要使用者：zihan, ziyi, eric, chenchang, Zihao(maksim)Ai
 
 叶旻老师服务器YeLab（A6000*4)
-- SSH 访问地址：LAN (内网) IP **10.8.14.229**
-- 进行大规模仿真或训练专用，如有上述需求，请私聊陆诚越申请临时使用权限
+- SSH 访问地址：LAN (内网) IP **10.8.14.159**
+- 进行大规模仿真或训练专用，如有上述需求，请私聊陆诚越或赵子号申请临时使用权限
 
 ### **文件服务器 SSR NAS**
 
 - **使用前请先阅读**[文件服务器（NAS）使用入门](https://thuwangzihan.notion.site/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
 - 内网 IP **10.8.31.95**;
+- 备用内网 IP **10.8.31.101**;
 - 修改密码-找回删除文件请在浏览器输入 **10.8.31.95:5000** 进入管理界面
 - WAN(外网) SSH port **hddx.iis.pub:55651** （请不要外传！！！）
 
@@ -205,11 +204,11 @@ SSR WS 3 (RTX 3090 * 1)
 
 ## **实验室安全规定Safety and regulations**
 
-**初次使用仪器/设备请务必通过**
-[这个文档的Equipment Usage](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=ecmdc9)列出的对应仪器负责同学的培训及独立操作许可
+**初次使用仪器/设备请务必通过** [这个文档的Equipment Usage](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=ecmdc9)列出的对应仪器负责同学的培训及独立操作许可
 
-**实验室值日排班表**
-[这个文档的Lab duty schedule](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=q1nf9a)包含每周负责值日的2位同学和大致任务分工
+[**实验室值日排班表**](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=q1nf9a)中包含每周负责值日的同学和任务分工
+
+[**实验室分区管理表**](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=k5pe3c)中包含实验室内每个功能区的负责人
 
 **实验室的整洁有序是大家安全高效地开展项目的保障，请大家一起维护！**
 
