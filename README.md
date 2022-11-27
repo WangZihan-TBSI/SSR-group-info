@@ -62,7 +62,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - **书籍购买 Buy some Books**
 
-    正式入学的同学每人每学年有 **300元** 放科技书籍购买预算，按需报销。
+    正式入学的同学每人每学年有 **300元** 的科技书籍购买预算，按需报销。
 
 - **文献分享会餐饮报销 LR Meeting Catering**
 
