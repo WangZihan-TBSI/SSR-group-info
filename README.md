@@ -54,7 +54,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - **报销流程 Reimbursement**
 
-    **物品购买前** 将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）并抄送田冰子老师（tianbingzi@sz.tsinghua.edu.cn）和李胜男老师，获得**购买许可**后方能购买；
+    **物品购买前** 将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）并抄送田冰子老师（tianbingzi@sz.tsinghua.edu.cn）和李胜男老师（lishengnan@sz.tsinghua.edu.cn），获得**购买许可**后方能购买；
 
     **单件/单笔 1000元以上** 由田冰子老师协助购买；**单件/单笔 1000元以下** 的耗材在获得老师批准后如果急用，可以自行垫资购买。化学药品需通过学院统一渠道采购，即使价格低于1000元也不可自行购买
 
