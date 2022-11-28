@@ -54,9 +54,9 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - **报销流程 Reimbursement**
 
-    **物品购买前** 将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）获得**购买许可**；并抄送田冰子老师（tianbingzi@sz.tsinghua.edu.cn），获悉**购买方式和报销抬头**
+    **物品购买前** 将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）并抄送田冰子老师（tianbingzi@sz.tsinghua.edu.cn）和李胜男老师，获得**购买许可**后方能购买；
 
-    **单件/单笔 1000元以上**由田冰子老师协助购买；**单件/单笔 1000元以下** 的耗材在获得老师批准后如果急用，可以自行垫资购买。化学药品需通过学院统一渠道采购，即使价格低于1000元也不可自行购买
+    **单件/单笔 1000元以上** 由田冰子老师协助购买；**单件/单笔 1000元以下** 的耗材在获得老师批准后如果急用，可以自行垫资购买。化学药品需通过学院统一渠道采购，即使价格低于1000元也不可自行购买
 
     **注意** 自己手中积攒的未报销发票不要超过**3000元**
 
@@ -75,7 +75,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
     地  址：深圳市西丽深圳大学城清华校区A栋二楼
     电  话：0755-26036008
 
-**清华大学抬头：(不常用)**
+**清华大学抬头：(不常用，田老师或李老师明确告知时才开这个抬头的发票)**
 
     单位名称：清华大学
     纳税人识别号：12100000400000624D
