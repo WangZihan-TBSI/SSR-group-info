@@ -163,7 +163,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 **SSR 计算服务器连接信息**
 
 SSR WS 1 (RTX 3090 * 2) 
-- LAN (内网) IP **10.8.14.248**
+- LAN (内网) IP **10.8.14.231**
 - MAC（网卡号）: a4:bb:6d:e0:a7:c0
 - 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, ziwu, Zihao(maksim)Ai, huaze
 
