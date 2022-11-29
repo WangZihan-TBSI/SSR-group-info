@@ -1,17 +1,16 @@
-# SSR Group Info
-
 ## **组内信息汇总表**
 [点击查看](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=fqgz1z)小组成员联系方式-设备使用表-值日表-个人组会-书单
 
-## **Tips for your academic journey**
-[点击查看SSR 小组的知识库](https://thuwangzihan.notion.site/Know-How-1f66947304ce41ef9200b3171eb5e3bc) 
+## **小组知识库Tips for your academic journey**
+
+各类仪器设备的使用和科研经验方法汇总[点击查看SSR 小组的知识库](https://thuwangzihan.notion.site/Know-How-1f66947304ce41ef9200b3171eb5e3bc) 
 
 **知识库上新**
 - [ATI-Nano43力传感器使用](https://local-sulfur-e69.notion.site/ATI-Nano43-Zenan-e91e7c67e5fc4c3ca7ab977b2ac752bc)
 
 - [直线电机使用教程](https://thuwangzihan.notion.site/57a4175fe98a43a2ad2339ab8de2732b)
 
-- [3D打印机使用要求](https://thuwangzihan.notion.site/3D-TBD-914d6eaa832741c89036cecf344052b2)
+- [3D打印机使用教程](https://thuwangzihan.notion.site/3D-TBD-914d6eaa832741c89036cecf344052b2)
 
 ## **每周工作汇报 Weekly Report**
 Use the following text template and send Prof. Ding (ding.wenbo@sz.tsinghua.edu.cn) the email every Friday (no late than 11:59pm) with the theme (周工作汇报-姓名-日期 or Weekly Report-Name-YYMMDD). (English and Chinese are both fine) 
@@ -50,23 +49,37 @@ Remember, this is a mandatory requirement for all the students in campus while f
     
     分享结束后把你的PPT和论文PDF文件放在[我们的知识库中](https://thuwangzihan.notion.site/Literature-Review-Meeting-Archive-4cd63724cb76414e9a27c5dca14080c9)进行归档
 
-## **财务与报销 Financial affairs**
+## **财务与报销流程 Financial affairs and Reimbursement**
 
-- **报销流程 Reimbursement**
+- **单笔1000元以下的物资购买**
 
-    **物品购买前**将购买 材料/设备 清单发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）并抄送田冰子老师（tianbingzi@sz.tsinghua.edu.cn）和李胜男老师（lishengnan@sz.tsinghua.edu.cn），获得**购买许可**后方能购买
+**常规购买**
 
-    **单件/单笔 1000元以上**由田冰子老师协助购买；**单件/单笔 1000元以下** 的耗材在获得老师批准后如果急用，可以自行垫资购买。化学药品需通过学院统一渠道采购，即使价格低于1000元也不可自行购买
+填写[购买申请表](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=BB08J2) 每周审批于周四下午5点截止，周五晚间发布
+    
+**紧急购买**
 
-    **注意** 自己手中积攒的未报销发票不要超过**3000元**
+材料/设备 清单和购买理由发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）并抄送田冰子老师（tianbingzi@sz.tsinghua.edu.cn），李胜男老师（lishengnan@sz.tsinghua.edu.cn），硕士生同学发起购买时亦需要抄送项目内的博士生负责人。在获得购买许可后自行垫资购买。
+
+**注意事项**
+
+1. 化学药品需联系田老师，通过学院统一渠道采购，即使价格低于1000元也不可自行购买！！！
+2. 自己手中积攒的未报销发票不要超过3000元
+3. 每次找田老师报销时提交发票，付款记录截图，以及所有报销项目的[汇总清单](./设备购置表_千元以下模板.xlsx)。发票和付款记录截图上需要写学号和姓名，并检查税号和金额是否正确。
+
+- **单笔1000元以上的物资购买流程**
+
+1. 向商家索取带有对方公章的报价单
+2. 报价单和购买理由邮件发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）并抄送田冰子老师（tianbingzi@sz.tsinghua.edu.cn）和李胜男老师（lishengnan@sz.tsinghua.edu.cn），获得购买许可
+3. 将商家和田冰子老师拉微信群，田老师跟进购买
 
 - **书籍购买 Buy some Books**
 
-    正式入学的同学每人每学年有 **300元** 的科技书籍购买预算，按需报销。
+正式入学的同学每人每学年有 300元 的科技书籍购买预算，购买流程参考 单笔 1000元以下的物资购买流程。
 
 - **文献分享会餐饮报销 LR Meeting Catering**
 
-    原则上不买饮料，人均餐费控制在30元，开票前和田冰子老师再确认一下，通常情况下发票开深研院抬头
+原则上不买饮料，人均餐费控制在30元，订餐前要和田冰子老师再确认一下是否符合各项规定
 
 **深研院开票抬头：(常用)**
     
