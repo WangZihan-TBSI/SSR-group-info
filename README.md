@@ -53,15 +53,15 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - **单笔1000元以下的物资购买**
 
-**常规购买**
+    **常规购买**
 
-填写[购买申请表](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=BB08J2) 每周审批于周四下午5点截止，周五晚间发布
+    填写[购买申请表](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=BB08J2) 每周审批于周四下午5点截止，周五晚间发布
     
-**紧急购买**
+    **紧急购买**
 
-材料/设备 清单和购买理由发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）并抄送田冰子老师（tianbingzi@sz.tsinghua.edu.cn），李胜男老师（lishengnan@sz.tsinghua.edu.cn），硕士生同学发起购买时亦需要抄送项目内的博士生负责人。在获得购买许可后自行垫资购买。
+    材料/设备 清单和购买理由发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）并抄送田冰子老师（tianbingzi@sz.tsinghua.edu.cn），李胜男老师（lishengnan@sz.tsinghua.edu.cn），硕士生同学发起购买时亦需要抄送项目内的博士生负责人。在获得购买许可后自行垫资购买。
 
-**注意事项**
+    **注意事项**
 
 1. 化学药品需联系田老师，通过学院统一渠道采购，即使价格低于1000元也不可自行购买！！！
 2. 自己手中积攒的未报销发票不要超过3000元
@@ -75,11 +75,11 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - **书籍购买 Buy some Books**
 
-正式入学的同学每人每学年有 300元 的科技书籍购买预算，购买流程参考 单笔 1000元以下的物资购买流程。
+    正式入学的同学每人每学年有 300元 的科技书籍购买预算，购买流程参考 单笔 1000元以下的物资购买流程。
 
 - **文献分享会餐饮报销 LR Meeting Catering**
 
-原则上不买饮料，人均餐费控制在30元，订餐前要和田冰子老师再确认一下是否符合各项规定
+    人均餐费控制在30元，订餐前要和田冰子老师再确认一下是否符合各项规定
 
 **深研院开票抬头：(常用)**
     
