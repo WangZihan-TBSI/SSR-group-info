@@ -57,7 +57,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
     **常规购买**
 
-    填写[购买申请表](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=BB08J2) 每周审批于周四下午5点截止，周五晚间发布
+    填写 [《购买申请表》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=BB08J2) 每周的表格填写于周四下午5点截止，届时将发布下一周的填写表格。审批结果于周五晚间发布
     
     **紧急购买**
 
@@ -67,7 +67,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 1. 化学药品需联系田老师，通过学院统一渠道采购，即使价格低于1000元也不可自行购买！！！
 2. 自己手中积攒的未报销发票不要超过3000元
-3. 每次找田老师报销时提交发票，付款记录截图，以及所有报销项目的[汇总清单](./设备购置表_千元以下模板.xlsx)。发票和付款记录截图上需要写学号和姓名，并检查税号和金额是否正确。
+3. 每次找田老师报销时提交发票，付款记录截图，以及所有报销项目的[《汇总清单》](./设备购置表_千元以下模板.xlsx)。发票和付款记录截图上需要写学号和姓名，并检查税号和金额是否正确。
 
 - **单笔1000元以上的物资购买流程**
 
