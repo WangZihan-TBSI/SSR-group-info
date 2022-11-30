@@ -61,7 +61,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
     
     **紧急购买**
 
-    材料/设备清单和购买理由发送给丁老师(ding.wenbo@sz.tsinghua.edu.cn)并抄送田冰子老师(tianbingzi@sz.tsinghua.edu.cn)，李胜男老师(lishengnan@sz.tsinghua.edu.cn)，硕士生同学发起购买时亦需要抄送项目内的博士生负责人。在获得购买许可后才可以自行垫资购买。
+    材料/设备清单和购买理由发送给丁老师(ding.wenbo@sz.tsinghua.edu.cn)并抄送田冰子老师(tianbingzi@sz.tsinghua.edu.cn)，硕士生同学发起购买时亦需要抄送项目内的博士生负责人。在获得购买许可后才可以自行垫资购买。
 
     **注意事项**
 
@@ -72,7 +72,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 - **单笔1000元以上的物资购买流程**
 
 1. 向商家索取带有对方公章的报价单
-2. 报价单和购买理由邮件发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）并抄送田冰子老师（tianbingzi@sz.tsinghua.edu.cn）和李胜男老师（lishengnan@sz.tsinghua.edu.cn），获得购买许可
+2. 报价单和购买理由邮件发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）并抄送田冰子老师（tianbingzi@sz.tsinghua.edu.cn），获得购买许可
 3. 将商家和田冰子老师拉微信群，田老师跟进购买
 
 - **书籍购买 Buy some Books**
