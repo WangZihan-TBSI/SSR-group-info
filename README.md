@@ -89,15 +89,6 @@ Remember, this is a mandatory requirement for all the students in campus while f
     地  址：深圳市西丽深圳大学城清华校区A栋二楼
     电  话：0755-26036008
 
-**清华大学抬头：(不常用)**
-
-    单位名称：清华大学
-    纳税人识别号：12100000400000624D
-    地址：北京市海淀区清华园
-    电话： 01062795627
-    开户行：工行海淀西区支行 
-    开户行账号：0200004509089131550
-
 ## **实验室安全规定Safety and regulations**
 
 **初次使用仪器/设备请务必通过** [这个文档的Equipment Usage](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=ecmdc9)列出的对应仪器负责同学的培训及独立操作许可
