@@ -188,11 +188,11 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
     1 - 安装anaconda环境
 
-    2 - 拷贝SSR_NAS/Public/0-Installation pkgs/Ubuntu/ml.zip到你的账号下anaconda/envs
+    2 - 拷贝`SSR_NAS/Public/0-Installation pkgs/Ubuntu/ml.zip`到你的账号下`anaconda/envs`
 
-    3 - conda activate ml
+    3 - `conda activate ml`
     
-    4 - 替换ml/bin/pip、ml/bin/pip3、ml/bin/pip3.7第一行中chengyue为\[你的账户名\]
+    4 - 替换`ml/bin/pip`、`ml/bin/pip3`、`ml/bin/pip3.7`第一行中的路径至\[你的pip对应路径\]
     
     由于tensorflow1.x官方不支持30系列显卡，chengyue已为大家配置好支持30系显卡的tf1.15环境：`python==3.8.12 nvidia-tensorflow==1.15.5+nv21.9, pytorch==1.8.1`，环境保存在ws1:/home/chengyue/anaconda3/envs/tf，移植步骤与ml类似
 
@@ -207,11 +207,16 @@ SSR WS 2 (RTX 3090 * 2)
 - LAN (内网) IP **10.8.14.221**
 - MAC（网卡号）: a4:bb:6d:d1:6e:2d
 - 主要使用者：yuzhu, zihao
-  
-SSR WS 3 (RTX 3090 * 1) 
+
+SSR WS 3 (RTX 3090 * 2) 
 - LAN (内网) IP **10.8.31.70**
 - MAC（网卡号）: b0:7b:25:07:49:04
 - 主要使用者：zihan, ziyi, eric, chenchang, Zihao(maksim)Ai
+
+SSR WS 4 (RTX 4090 * 2) 
+- LAN (内网) IP **10.8.31.188**
+- MAC（网卡号）: fe80::cc1e:c223:e161:1a24%12
+- 主要使用者：huaze
 
 叶旻老师服务器YeLab（A6000*4)
 - SSH 访问地址：LAN (内网) IP **10.8.14.159**
