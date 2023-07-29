@@ -148,7 +148,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 开SSR小组计算服务器账户和计算服务器使用咨询联系陆诚越或赵子号
 
-开SSR小组文件存储服务器（NAS）账户和使用咨询联系王子涵
+开SSR小组文件存储服务器（NAS）账户和使用咨询联系李嘉荣
 
 ### **2C 实验室高性能计算集群（推荐）**
 - LAN (内网) IP **10.8.6.22**
