@@ -59,7 +59,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
     填写 [《购买申请表》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=BB08J2) 
     
-    每周的表格填写于周四下午5点截止，届时将发布下一周的填写表格
+    每周的表格填写于周四中午截止，届时将发布下一周的填写表格
     
     审批结果于周五下午发布
     
