@@ -55,7 +55,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - **单笔1000元以下的物资购买**
 
-    **常规购买**
+    **常规购买(每周审批)**
 
     填写 [《购买申请表》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=BB08J2) 
     
@@ -65,15 +65,15 @@ Remember, this is a mandatory requirement for all the students in campus while f
     
     **紧急购买**
 
-    材料/设备清单和购买理由发送给丁老师(ding.wenbo@sz.tsinghua.edu.cn)并抄送行政秘书李胜男老师(lishengnan@sz.tsinghua.edu.cn)，硕士生同学发起购买时亦需要抄送项目内的博士生负责人。在获得购买许可后才可以自行垫资购买。
+    材料/设备清单和购买理由发送给丁老师(ding.wenbo@sz.tsinghua.edu.cn)并抄送行政秘书严根梅(Megan)(meganyan@sz.tsinghua.edu.cn)，硕士生同学发起紧急购买时亦需要抄送项目内的博士生负责人。在获得购买许可后才可以自行垫资购买。
 
 - **单件/单笔 1000元以上的物资 及 政采目录内的物资购买流程**
     1. 向商家索取带有对方公章的报价单
-    2. 报价单和购买理由邮件发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）并抄送李胜男老师(lishengnan@sz.tsinghua.edu.cn)
-    3. 获得丁老师的购买许可后，将商家和李胜男老师拉微信群，李老师跟进购买
+    2. 报价单和购买理由邮件发送给丁老师（ding.wenbo@sz.tsinghua.edu.cn）并抄送Megan(meganyan@sz.tsinghua.edu.cn)
+    3. 获得丁老师的购买许可后，将商家和Megan拉微信群跟进购买
 
 - **注意事项**
-    1. 化学药品经过批准允许购买后，需联系李老师通过学院统一渠道采购，不可自行购买。
+    1. 化学药品经过批准允许购买后，需联系Megan通过学院统一渠道采购，不可自行购买。
     2. 自己手中积攒的未报销发票不要超过3000元
     3. 每次找李老师报销时提交发票，付款记录截图，以及所有报销项目的[汇总清单](./设备购置表_千元以下模板.xlsx)。发票和付款记录截图上需要写学号和姓名，并检查税号和金额是否正确。
     4. 商家需对公付款请联系李老师购买。
@@ -85,7 +85,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - **文献分享会餐饮报销 LR Meeting Catering**
 
-    人均餐费控制在30元，订餐前要和李胜男老师再确认一下是否符合各项规定
+    人均餐费控制在30元，订餐前要和Megan确认是否符合各项规定
 
 **深研院开票抬头：(常用)**
     
@@ -104,7 +104,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 **实验室的整洁有序是大家安全高效地开展项目的保障，请大家一起维护！**
 
-1. 实验室内严禁饮食。	
+1. 实验室内严禁饮食！
 
 2. 每周值日同学需履行义务
 
@@ -146,7 +146,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 开2C实验室计算集群账户和使用咨询联系武智源
 
-开SSR小组计算服务器账户和计算服务器使用咨询联系陆诚越或赵子号
+开SSR小组计算服务器账户和计算服务器使用咨询联系赵子号
 
 开SSR小组文件存储服务器（NAS）账户和使用咨询联系李嘉荣
 
@@ -218,9 +218,9 @@ SSR WS 4 (RTX 4090 * 2)
 - MAC（网卡号）: fe80::cc1e:c223:e161:1a24%12
 - 主要使用者：huaze
 
-叶旻老师服务器YeLab（A6000*4)
+叶老师的服务器YeLab（A6000*4)
 - SSH 访问地址：LAN (内网) IP **10.8.14.159**
-- 进行大规模仿真或训练专用，如有上述需求，请私聊陆诚越或赵子号申请临时使用权限
+- 进行大规模仿真或训练专用，如有上述需求，请私聊赵子号申请临时使用权限
 
 ### **文件服务器 SSR NAS**
 
