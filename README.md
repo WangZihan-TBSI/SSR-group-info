@@ -98,9 +98,9 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 **初次使用仪器/设备请务必通过** [这个文档的Equipment Usage](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=ecmdc9)列出的对应仪器负责同学的培训及独立操作许可
 
-[**实验室值日排班表**](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=q1nf9a)中包含每周负责值日的同学和任务分工
+[实验室值日排班表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=q1nf9a)中包含每周负责值日的同学和任务分工
 
-[**实验室分区管理表**](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=k5pe3c)中包含实验室内每个功能区的负责人
+[实验室分区管理表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=k5pe3c)中包含实验室内每个功能区的负责人
 
 **实验室的整洁有序是大家安全高效地开展项目的保障，请大家一起维护！**
 
@@ -113,13 +113,6 @@ Remember, this is a mandatory requirement for all the students in campus while f
 4. 实验台抽屉里放不下的大件物品请放在柜子里并在柜门上和柜子内放置搁板上贴标签，注明物品和使用人放置位置贴好标签，注明物品名称和使用人。
 
 5. 实验室中央的会议桌可以用于开会讨论，轻度办公等。严禁在不做任何保护的情况下当普通实验台使用；请勿堆放各类物品（确实有特别的实验需要，如拍摄demo等），需要在会议桌上铺好灰色的橡胶保护垫后才能使用。
-
-    单位名称：清华大学
-    纳税人识别号：12100000400000624D
-    地址：北京市海淀区清华园
-    电话： 01062795627
-    开户行：工行海淀西区支行 
-    开户行账号：0200004509089131550
 
 ## **无线网络 WiFi Connection**
 
@@ -144,7 +137,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 ## **服务器使用 Server Usage**
 
-开2C实验室计算集群账户和使用咨询联系武智源
+开2C实验室计算集群账户和使用咨询联系TBD
 
 开SSR小组计算服务器账户和计算服务器使用咨询联系赵子号
 
@@ -184,7 +177,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - 配置机器学习环境
 
-    由于实验室网络条件有限，自行安装pytorch、tensorflow环境可能会遇到阻碍，chengyue已为大家配置好`python==3.7.9 pytorch==1.7.1+cu110, tensorflow-gpu==2.4.0`等机器学习常用包，安装步骤如下:
+    由于实验室网络条件有限，自行安装pytorch、tensorflow环境可能会遇到阻碍，已为大家配置好`python==3.7.9 pytorch==1.7.1+cu110, tensorflow-gpu==2.4.0`等机器学习常用包，安装步骤如下:
 
     1 - 安装anaconda环境
 
@@ -194,31 +187,31 @@ Remember, this is a mandatory requirement for all the students in campus while f
     
     4 - 替换`ml/bin/pip`、`ml/bin/pip3`、`ml/bin/pip3.7`第一行中的路径至\[你的pip对应路径\]
     
-    由于tensorflow1.x官方不支持30系列显卡，chengyue已为大家配置好支持30系显卡的tf1.15环境：`python==3.8.12 nvidia-tensorflow==1.15.5+nv21.9, pytorch==1.8.1`，环境保存在ws1:/home/chengyue/anaconda3/envs/tf，移植步骤与ml类似
+    由于tensorflow1.x官方不支持30系列显卡，已为大家配置好支持30系显卡的tf1.15环境：`python==3.8.12 nvidia-tensorflow==1.15.5+nv21.9, pytorch==1.8.1`，环境保存在ws1:/home/chengyue/anaconda3/envs/tf，移植步骤与ml类似
 
 **SSR 计算服务器连接信息**
 
 SSR WS 1 (RTX 3090 * 2) 
 - LAN (内网) IP **10.8.14.231**
 - MAC（网卡号）: a4:bb:6d:e0:a7:c0
-- 主要使用者：jiarong, jihong, meilin, huaze, riccardo, xiaosa, ziwu, Zihao(maksim)Ai, huaze
+- 主要使用者：jiarong, meilin, huaze, xiaosa, ziwu, Zihao(maksim)Ai, huaze
 
 SSR WS 2 (RTX 3090 * 2) 
 - LAN (内网) IP **10.8.14.161**
 - MAC（网卡号）: a4:bb:6d:d1:6e:2d
-- 主要使用者：yuzhu, zihao
+- 主要使用者：zihao
 
 SSR WS 3 (RTX 3090 * 2) 
 - LAN (内网) IP **10.8.31.70**
 - MAC（网卡号）: b0:7b:25:07:49:04
-- 主要使用者：zihan, ziyi, eric, chenchang, Zihao(maksim)Ai
+- 主要使用者：ziyi, eric, chenchang, Zihao(maksim)Ai
 
 SSR WS 4 (RTX 4090 * 2) 
 - LAN (内网) IP **10.8.31.188**
 - MAC（网卡号）: fe80::cc1e:c223:e161:1a24%12
 - 主要使用者：huaze
 
-叶老师的服务器YeLab（A6000*4)
+高性能服务器YeLab（A6000*4）
 - SSH 访问地址：LAN (内网) IP **10.8.14.159**
 - 进行大规模仿真或训练专用，如有上述需求，请私聊赵子号申请临时使用权限
 
@@ -238,33 +231,9 @@ SSR WS 4 (RTX 4090 * 2)
 
     期刊/会议论文撰写: 联系丁老师，使用Overleaf官方付费版（支持10人同时协作）
     
-    个人项目或写大作业可以
+    个人使用或写大作业可以
     - 使用由清华计算机系科协、TUNA 的同学们维护的[清华Overleaf](https://overleaf.tsinghua.edu.cn/) （*使用清华统一身份认证登录，能直接校外访问*）
-    - 使用[2C服务器集群上的Overleaf](http://10.8.6.21:8031/) （*联系武智源开账户，信息楼外访问需要登录深研院的VPN*）
+    - 使用[2C服务器集群上的Overleaf](http://10.8.6.21:8031/) （*联系TBD开账户，信息楼外访问需要登录深研院的VPN*）
     - 组里 WS3 上搭的[SSR Overleaf](http://10.8.31.70/login) （*联系王子涵开账户，信息楼外访问需要登录深研院的VPN*）
 
 - 实验室电脑广域网远程访问方法——蒲公英 [点击下载](./实验室电脑蒲公英远程访问方法.pdf)教程
-
-## **实验室安全规定Safety and regulations**
-
-**初次使用仪器/设备请务必通过** [这个文档的Equipment Usage](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=ecmdc9)列出的对应仪器负责同学的培训及独立操作许可
-
-[**实验室值日排班表**](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=q1nf9a)中包含每周负责值日的同学和任务分工
-
-[**实验室分区管理表**](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=k5pe3c)中包含实验室内每个功能区的负责人
-
-**实验室的整洁有序是大家安全高效地开展项目的保障，请大家一起维护！**
-
-1. 实验室内严禁饮食。（丁老师抽查到扣200元补助，用作组会饮料）	
-
-2. 每周值日同学需履行义务（丁老师抽查到打扫不及时的扣200元补助，用作组会饮料）					
-
-3. 材料加工台与其他公共设备使用完毕后需立即清理，如需暂时占用，需放置明显标识，写上占用人和占用时间（丁老师抽查到不及时清理的扣200元补助，用作组会饮料）		
-
-4. 实验台抽屉里放不下的大件物品如果使用频次不高请放在柜子里并在柜门上和柜子内放置搁板上贴标签，注明物品和使用人放置位置贴好标签，注明物品名称和使用人。		
-
-5. 实验室中央的会议桌可以用于开会讨论，轻度办公等。严禁在不做任何保护的情况下当普通实验台使用；请勿堆放各类物品（确实有特别的实验需要，如拍摄demo等），需要在会议桌上铺好灰色的橡胶保护垫后才能使用。	
-
-6. 存放化学药品的抽屉或柜子必须上锁，使用化学品需提前一天向王子涵或李潇洒申请。					
-
-7. 每个实验台的管理人需要负责保持台面整洁，挂板上和抽屉里各种物品的存放位置。这些位置都需要贴上标签或其他明显标识，以完善实验室资产的管理。					
