@@ -137,7 +137,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 ## **服务器使用 Server Usage**
 
-开2C实验室计算集群账户和使用咨询联系TBD
+开2C实验室计算集群账户和使用咨询联系张国庆
 
 开SSR小组计算服务器账户和计算服务器使用咨询联系赵子号
 
@@ -233,7 +233,7 @@ SSR WS 4 (RTX 4090 * 2)
     
     个人使用或写大作业可以
     - 使用由清华计算机系科协、TUNA 的同学们维护的[清华Overleaf](https://overleaf.tsinghua.edu.cn/) （*使用清华统一身份认证登录，能直接校外访问*）
-    - 使用[2C服务器集群上的Overleaf](http://10.8.6.21:8031/) （*联系TBD开账户，信息楼外访问需要登录深研院的VPN*）
+    - 使用[2C服务器集群上的Overleaf](http://10.8.6.21:8031/) （*联系张国庆开账户，信息楼外访问需要登录深研院的VPN*）
     - 组里 WS3 上搭的[SSR Overleaf](http://10.8.31.70/login) （*联系王子涵开账户，信息楼外访问需要登录深研院的VPN*）
 
 - 实验室电脑广域网远程访问方法——蒲公英 [点击下载](./实验室电脑蒲公英远程访问方法.pdf)教程
