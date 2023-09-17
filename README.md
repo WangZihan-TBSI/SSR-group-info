@@ -31,7 +31,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - **登记你的组会出场顺序** 
 
-    [点击查看](https://docs.qq.com/sheet/DYklRZ2h0ZmpvZ3pj?tab=qtnvsx) 
+    [点击查看](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=jmvent) 
 
 - **挑选文献**
 
@@ -96,7 +96,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 ## **实验室安全规定Safety and regulations**
 
-**初次使用仪器/设备请务必通过** [这个文档的Equipment Usage](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=ecmdc9)列出的对应仪器负责同学的培训及独立操作许可
+**初次使用仪器/设备请务必通过** [这个文档的Equipment Usage](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=nydn9x)列出的对应仪器负责同学的培训及独立操作许可
 
 [实验室值日排班表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=q1nf9a)中包含每周负责值日的同学和任务分工
 
