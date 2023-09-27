@@ -167,7 +167,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - 如需使用指定端口访问某些服务（如Jupyter Notebook）的网页GUI界面，请联系赵子号开通指定端口的访问权限
 
-- 数据和模型请放到大容量机械硬盘内，其挂载点为 **/mnt/HDD/**
+- 数据,模型和个人文件请放到服务器的大容量机械硬盘阵列内，其挂载点为 **/mnt/HDD/** 机械硬盘阵列有自动备份功能，数据安全有保障。系统路径内请勿放大文件！！！
 
 - 访问文件服务器的Public分区的挂载点为 **/mnt/NAS/**，向NAS内写入或删除文件需 sudo 权限
 
