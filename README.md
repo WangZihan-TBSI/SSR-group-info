@@ -167,7 +167,9 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - 如需使用指定端口访问某些服务（如Jupyter Notebook）的网页GUI界面，请联系赵子号开通指定端口的访问权限
 
-- 数据,模型和个人文件请放到服务器的大容量机械硬盘阵列内，其挂载点为 **/mnt/HDD/** 机械硬盘阵列有自动备份功能，数据安全有保障。系统路径内请勿放大文件！！！
+- 数据, 模型和个人文件请放到服务器的大容量机械硬盘阵列内，其挂载点为 **/mnt/HDD/** 
+
+- 机械硬盘阵列有自动备份功能，数据安全有保障。系统路径内请勿放大文件！！！
 
 - 访问文件服务器的Public分区的挂载点为 **/mnt/NAS/**，向NAS内写入或删除文件需 sudo 权限
 
@@ -175,7 +177,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - 在服务器上使用 MatLab 的方法 [点击查看](https://thuwangzihan.notion.site/Use-MATLAB-on-Server-MATLAB-80aa7aba2690438e80cdb3c222c62cf5)
 
-- 配置机器学习环境
+- 有关配置机器学习环境
 
     由于实验室网络条件有限，自行安装pytorch、tensorflow环境可能会遇到阻碍，已为大家配置好`python==3.7.9 pytorch==1.7.1+cu110, tensorflow-gpu==2.4.0`等机器学习常用包，安装步骤如下:
 
