@@ -59,9 +59,9 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
     填写 [《购买申请表》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=BB08J2) 
     
-    每周的表格填写于周四中午截止，届时将发布下一周的填写表格
+    每周的表格填写于周四中午截止，届时将发布下一周的填写表格，审批结果于周五下午发布
     
-    审批结果于周五下午发布
+    按照财务报销新规定，购买是如果不是使用的学校发的平安银行卡付款，需要在付款记录处写明情况，并有严老师签字确认
     
     **紧急购买**
 
