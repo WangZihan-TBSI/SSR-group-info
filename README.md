@@ -1,8 +1,8 @@
 # SSR Group Info
 
-## **组内信息汇总表**
+## **组内信息汇总表 Basic informations**
 [点击查看](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=fqgz1z)小组成员联系方式-设备使用表-值日表-个人组会-书单
-
+[Click to checkout](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=fqgz1z) contact inforomation of group members - Equipment usage - Lab duty schedule - Group meeting schedule - Book list
 ## **小组知识库Tips for your academic journey**
 
 各类仪器设备的使用和科研经验方法汇总[点击查看SSR 小组的知识库](https://thuwangzihan.notion.site/Know-How-1f66947304ce41ef9200b3171eb5e3bc) 
@@ -111,8 +111,6 @@ Remember, this is a mandatory requirement for all the students in campus while f
 3. 材料加工台与其他公共设备使用完毕后需清理至使用前的整洁度，如需暂时占用，需放置明显标识，写上占用人和占用时间
 
 4. 实验台抽屉里放不下的大件物品请放在柜子里并在柜门上和柜子内放置搁板上贴标签，注明物品和使用人放置位置贴好标签，注明物品名称和使用人。
-
-5. 实验室中央的会议桌可以用于开会讨论，轻度办公等。严禁在不做任何保护的情况下当普通实验台使用；请勿堆放各类物品（确实有特别的实验需要，如拍摄demo等），需要在会议桌上铺好灰色的橡胶保护垫后才能使用。
 
 ## **无线网络 WiFi Connection**
 
