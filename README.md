@@ -57,7 +57,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
     **常规购买(每周审批)**
 
-    填写 [《购买申请表》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=BB08J2) 
+    申请购买前查看[《历史购买记录》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=49rpwa), 如果之前没人购买，或联系购买人后发现已用完方能填写 [《购买申请表》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=BB08J2) 
     
     每周的表格填写于周四中午截止，届时将发布下一周的填写表格，审批结果于周五下午发布
     
