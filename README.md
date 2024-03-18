@@ -8,10 +8,10 @@
 各类仪器设备的使用和科研经验方法汇总[点击查看SSR 小组的知识库](https://thuwangzihan.notion.site/Know-How-1f66947304ce41ef9200b3171eb5e3bc) 
 
 **知识库上新**
-- [ATI-Nano43力传感器使用](https://local-sulfur-e69.notion.site/ATI-Nano43-Zenan-e91e7c67e5fc4c3ca7ab977b2ac752bc)
-
+- [ATI-Nano43力传感器使用](https://thu-zenan.notion.site/ATI-Nano43-Zenan-e91e7c67e5fc4c3ca7ab977b2ac752bc)
+- [Cordis 控制器使用指南](https://thuwangzihan.notion.site/Cordis-80f6dd6c0765424cb23f5c0b601ef655?pvs=74)
 - [直线电机使用教程](https://thuwangzihan.notion.site/57a4175fe98a43a2ad2339ab8de2732b)
-
+- [文献阅读Literature Survey & Reading](https://thuwangzihan.notion.site/Literature-Survey-Reading-cc7ae9ce3b5c478f90b6014d5eb24454)
 - [3D打印机使用教程](https://thuwangzihan.notion.site/3D-TBD-914d6eaa832741c89036cecf344052b2)
 
 ## **每周工作汇报 Weekly Report**
