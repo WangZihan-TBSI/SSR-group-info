@@ -129,8 +129,9 @@ Remember, this is a mandatory requirement for all the students in campus while f
 - [点击下载详细设置方法](./11楼打印机配置.pdf)
 
 **彩印专用** 1111C 实验室的惠普打印机: 
+- 不可使用该打印机打印黑白！！
 - 打印机名称：HP Color LaserJet MFP M281fdw，
-- 内网地址(IP): **10.8.31.39** 
+- 内网地址(IP): 请联系严根梅老师(Megan)(meganyan@sz.tsinghua.edu.cn) 获得许可后再用
 - 如果想从电脑打印和扫描请 [下载安装驱动](https://support.hp.com/cn-zh/drivers/selfservice/hp-color-laserjet-pro-m280-m281-multifunction-printer-series/14142489/model/14142491)
 
 ## **服务器使用 Server Usage**
