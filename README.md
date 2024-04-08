@@ -100,7 +100,9 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 [实验室值日排班表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=q1nf9a)中包含每周负责值日的同学和任务分工
 
-[实验室分区管理表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=k5pe3c)中包含实验室内每个功能区的负责人
+[实验室分区管理表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=k5pe3c)中包含实验室内每个功能区的负责人和相应任务
+
+[实验室设备清单](https://docs.qq.com/sheet/DVFNmV3FoQXdta1Nk?newPad=1&newPadType=clone&tab=tnn69o)中包含实验室每个设备的位置和负责人
 
 **实验室的整洁有序是大家安全高效地开展项目的保障，请大家一起维护！**
 
@@ -108,9 +110,19 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 2. 每周值日同学需履行义务
 
-3. 材料加工台与其他公共设备使用完毕后需清理至使用前的整洁度，如需暂时占用，需放置明显标识，写上占用人和占用时间
+3. 材料加工台与其他公共设备使用完毕后需立即清理，禁止佩戴手套握门把手，操作电脑键盘。如需暂时占用，需放置明显标识，写上占用人和占用时间。进入样品制备区必须穿实验服。佩戴手套、戴护目镜（或眼镜）、穿覆盖过脚面的鞋，女生头发要扎起。离开材料区，脱掉实验服和手套。
 
-4. 实验台抽屉里放不下的大件物品请放在柜子里并在柜门上和柜子内放置搁板上贴标签，注明物品和使用人放置位置贴好标签，注明物品名称和使用人。
+
+4. 实验台抽屉里放不下的大件物品如果使用频次不高请放在柜子里并在柜门上和柜子内放置搁板上贴标签，注明物品和使用人放置位置贴好标签，注明物品名称和使用人。
+
+
+5. 请勿在实验台堆放杂物（确实有特别的实验需要，如拍摄demo等），需要在会议桌上铺好灰色的橡胶保护垫后才能使用。
+
+7. 存放化学药品的抽屉或柜子必须上锁，使用化学品需提前一天向赵润泽申请。
+
+8. 每个实验台的管理人需要负责保持台面整洁，挂板上和抽屉里各种物品的存放位置。这些位置都需要贴上标签或其他明显标识，以完善实验室资产的管理。
+
+
 
 ## **无线网络 WiFi Connection**
 
