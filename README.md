@@ -3,11 +3,9 @@
 ## **组内信息汇总表 Basic informations**
 [点击查看](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=fqgz1z)小组成员联系方式-设备使用表-值日表-个人组会-书单
 [Click to checkout](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=fqgz1z) contact inforomation of group members - Equipment usage - Lab duty schedule - Group meeting schedule - Book list
-## **小组知识库Tips for your academic journey**
 
-
-## **[知识库](https://thuwangzihan.notion.site/Know-How-1f66947304ce41ef9200b3171eb5e3bc) **
-[知识库](https://thuwangzihan.notion.site/Know-How-1f66947304ce41ef9200b3171eb5e3bc)里有各类仪器设备的使用和科研经验方法汇总
+## [**知识库 SSR Knowledge Base**](https://thuwangzihan.notion.site/Know-How-1f66947304ce41ef9200b3171eb5e3bc)
+[知识库](https://thuwangzihan.notion.site/Know-How-1f66947304ce41ef9200b3171eb5e3bc)里有各类仪器设备的使用和科研经验方法汇总 and tips for your academic journey
 - [ATI-Nano43力传感器使用](https://thu-zenan.notion.site/ATI-Nano43-Zenan-e91e7c67e5fc4c3ca7ab977b2ac752bc)
 - [Cordis 控制器使用指南](https://thuwangzihan.notion.site/Cordis-80f6dd6c0765424cb23f5c0b601ef655?pvs=74)
 - [直线电机使用教程](https://thuwangzihan.notion.site/57a4175fe98a43a2ad2339ab8de2732b)
@@ -15,7 +13,7 @@
 - [3D打印机使用教程](https://thuwangzihan.notion.site/3D-TBD-914d6eaa832741c89036cecf344052b2)
 
 ## **每周工作汇报 Weekly Report**
-Use the following text template and send Prof. Ding (ding.wenbo@sz.tsinghua.edu.cn) the email every Friday (no late than 11:59pm) with the theme (周工作汇报-姓名-日期 or Weekly Report-Name-YYMMDD). (English and Chinese are both fine) 
+Use the following text template and send Prof. Ding (ding.wenbo@sz.tsinghua.edu.cn) the email every Friday (no late than 11:59pm) with the theme (周工作汇报-姓名-日期 or Weekly Report-Name-YYMMDD). (English and Chinese are both fine)
 1. Your Projects (and who you work with)
 2. Your progress in this week. (any difficulties, any findings, any trials and errors.) 
 3. Your plan in the next week. (any submission plans in the future)
@@ -29,9 +27,9 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
     [点击查看](https://docs.qq.com/doc/DQUVPZ05SamtBak1y)文献分享会的各项规定。
 
-- **登记你的组会出场顺序** 
+- **登记你的组会出场顺序**
 
-    [点击查看](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=jmvent) 
+    [点击查看](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=jmvent)
 
 - **挑选文献**
 
@@ -57,7 +55,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
     **常规购买(每周审批)**
 
-    申请购买前查看[《历史购买记录》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=49rpwa), 如果之前没人购买，或联系购买人后发现已用完方能填写 [《购买申请表》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=BB08J2) 
+    申请购买前查看[《历史购买记录》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=49rpwa), 如果之前没人购买，或联系购买人后发现已用完方能填写 [《购买申请表》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=BB08J2)
     
     每周的表格填写于周四中午截止，届时将发布下一周的填写表格，审批结果于周五下午发布
     
@@ -80,15 +78,12 @@ Remember, this is a mandatory requirement for all the students in campus while f
     5. [政府集中采购目录](./政采商品目录.png)内的商品，即使小于1000也必需联系Megan购买。
 
 - **书籍购买 Buy some Books**
-
     正式入学的同学每人每学年有 300元 的科技书籍购买预算，购买流程参考 单笔 1000元以下的物资购买流程。
 
 - **文献分享会餐饮报销 LR Meeting Catering**
-
     人均餐费控制在30元，订餐前要和Megan确认是否符合各项规定
 
 **深研院开票抬头：(常用)**
-    
     单位名称：清华大学深圳国际研究生院
     统一社会信用代码（纳税人识别号）：12440300455752807L
     地  址：深圳市西丽深圳大学城清华校区A栋二楼
@@ -105,7 +100,6 @@ Remember, this is a mandatory requirement for all the students in campus while f
 [实验室设备清单](https://docs.qq.com/sheet/DVFNmV3FoQXdta1Nk?newPad=1&newPadType=clone&tab=tnn69o)中包含实验室每个设备的位置和负责人
 
 **实验室的整洁有序是大家安全高效地开展项目的保障，请大家一起维护！**
-
 1. 实验室内严禁饮食！
 
 2. 每周值日同学需履行义务
@@ -120,9 +114,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 8. 每个实验台的管理人需要负责保持台面整洁，挂板上和抽屉里各种物品的存放位置。这些位置都需要贴上标签或其他明显标识，以完善实验室资产的管理。
 
-
 ## **无线网络 WiFi Connection**
-
     SSID: TBSI_SSR_5G / TBSI_SSR_2.4G       
     password: ssrgroup
     SSID：TBSI-Guest   
@@ -161,7 +153,6 @@ Remember, this is a mandatory requirement for all the students in campus while f
 **SSR 计算服务器使用须知**
 
 **「重要」请不要设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员  If you have any question regarding Ubuntu server usage, please contact the server manager**
-
 - 一年级新生（研一、博一）需要使用服务器的sudo权限请填写[SSR 计算服务器sudo权限申请表](https://docs.qq.com/form/page/DTXVYRmVyUm5uWG1i)，并将填写界面截图微信发送赵子号。
 
 - 需长时间占用CPU/GPU运行大计算量的任务请微信告知服务器管理员赵子号，许可后方能执行
