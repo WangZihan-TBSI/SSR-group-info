@@ -89,12 +89,9 @@ Remember, this is a mandatory requirement for all the students in campus while f
 ## **实验室安全规定Safety and regulations**
 
 - **初次使用仪器/设备请务必通过** [本文档](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=nydn9x)列出的对应仪器负责同学的培训及独立操作许可
-
-[实验室值日排班表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=q1nf9a)中包含每周负责值日的同学和任务分工
-
-[实验室分区管理表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=k5pe3c)中包含实验室内每个功能区的负责人和相应任务
-
-[实验室设备清单](https://docs.qq.com/sheet/DVFNmV3FoQXdta1Nk?newPad=1&newPadType=clone&tab=tnn69o)中包含实验室每个设备的位置和负责人
+    1. [实验室值日排班表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=q1nf9a)中包含每周负责值日的同学和任务分工
+    2. [实验室分区管理表](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=k5pe3c)中包含实验室内每个功能区的负责人和相应任务
+    3. [实验室设备清单](https://docs.qq.com/sheet/DVFNmV3FoQXdta1Nk?newPad=1&newPadType=clone&tab=tnn69o)中包含实验室每个设备的位置和负责人
 
 **实验室的整洁有序是大家安全高效地开展项目的保障，请大家一起维护！**
 1. 实验室内严禁饮食！
