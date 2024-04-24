@@ -2,6 +2,7 @@
 
 ## **组内信息汇总表 Basic informations**
 [点击查看](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=fqgz1z)小组成员联系方式-设备使用表-值日表-个人组会-书单
+
 [Click to checkout](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=fqgz1z) contact inforomation of group members - Equipment usage - Lab duty schedule - Group meeting schedule - Book list
 
 ## [**知识库 SSR Knowledge Base**](https://thuwangzihan.notion.site/Know-How-1f66947304ce41ef9200b3171eb5e3bc)
