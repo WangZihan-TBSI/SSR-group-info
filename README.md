@@ -5,9 +5,9 @@
 [Click to checkout](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=fqgz1z) contact inforomation of group members - Equipment usage - Lab duty schedule - Group meeting schedule - Book list
 ## **小组知识库Tips for your academic journey**
 
-各类仪器设备的使用和科研经验方法汇总[点击查看SSR 小组的知识库](https://thuwangzihan.notion.site/Know-How-1f66947304ce41ef9200b3171eb5e3bc) 
 
-**知识库上新**
+## **[知识库](https://thuwangzihan.notion.site/Know-How-1f66947304ce41ef9200b3171eb5e3bc) **
+[知识库](https://thuwangzihan.notion.site/Know-How-1f66947304ce41ef9200b3171eb5e3bc)里有各类仪器设备的使用和科研经验方法汇总
 - [ATI-Nano43力传感器使用](https://thu-zenan.notion.site/ATI-Nano43-Zenan-e91e7c67e5fc4c3ca7ab977b2ac752bc)
 - [Cordis 控制器使用指南](https://thuwangzihan.notion.site/Cordis-80f6dd6c0765424cb23f5c0b601ef655?pvs=74)
 - [直线电机使用教程](https://thuwangzihan.notion.site/57a4175fe98a43a2ad2339ab8de2732b)
@@ -156,7 +156,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 - 使用远程桌面功能在浏览器输入 [*http://10.103.69.251:300*](http://10.103.69.251:300)
 - 2C 大组的 Wiki 和其他IT资源的使用可在浏览器输入 [*http://10.103.69.251*](http://10.103.69.251) 查看（信息楼外访问需要登录深研院的VPN）
 
-### **SSR 小组计算服务器**
+### **SSR Server**
 
 **SSR 计算服务器使用须知**
 
@@ -225,7 +225,7 @@ SSR Server 高性能服务器（A6000*4）
 - SSH 访问地址：LAN (内网) IP **10.8.14.159**
 - 进行大规模仿真或训练专用，请私聊赵子号申请使用权限
 
-### **文件服务器 SSR NAS**
+### **Fileserver (SSR NAS)**
 
 - **使用前请先阅读**[文件服务器（NAS）使用入门](https://thuwangzihan.notion.site/Fileserver-Usage-7938dc34f3764601823179012f30a1c9)
 - 内网 IP **10.8.31.95**;
