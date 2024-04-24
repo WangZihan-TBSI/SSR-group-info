@@ -55,16 +55,12 @@ Remember, this is a mandatory requirement for all the students in campus while f
 - **单笔1000元以下的物资购买**
 
     **常规购买(每周审批)**
+    1. 申请购买前查看[《历史购买记录》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=49rpwa), 如果之前没人购买，或联系购买人后发现已用完方能填写 [《购买申请表》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=BB08J2)
+    2. 每周的表格填写于周四中午截止，届时将发布下一周的填写表格，审批结果于周五下午发布
+    3. 点击查看[更多报销注意事项](https://docs.qq.com/sheet/DTW9rWHpqUlpRdHZo?tab=BB08J2)，不确定部分咨询严老师
 
-    申请购买前查看[《历史购买记录》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=49rpwa), 如果之前没人购买，或联系购买人后发现已用完方能填写 [《购买申请表》](https://docs.qq.com/sheet/DTUxYcGtzVnNSV2ph?tab=BB08J2)
-    
-    每周的表格填写于周四中午截止，届时将发布下一周的填写表格，审批结果于周五下午发布
-    
-    按照财务报销新规定，购买是如果不是使用的学校发的平安银行卡付款，需要在付款记录处写明情况，并有严老师签字确认
-    
     **紧急购买**
-
-    材料/设备清单和购买理由发送给丁老师(ding.wenbo@sz.tsinghua.edu.cn)并抄送行政秘书严根梅(Megan)(meganyan@sz.tsinghua.edu.cn)，硕士生同学发起紧急购买时亦需要抄送项目内的博士生负责人。在获得购买许可后才可以自行垫资购买。
+    1. 材料/设备清单和购买理由发送给丁老师(ding.wenbo@sz.tsinghua.edu.cn)并抄送行政秘书严根梅(Megan)(meganyan@sz.tsinghua.edu.cn)，硕士生同学发起紧急购买时亦需要抄送项目内的博士生负责人。在获得购买许可后才可以自行垫资购买。
 
 - **单件/单笔 1000元以上的物资 及 政采目录内的物资购买流程**
     1. 向商家索取带有对方公章的报价单
