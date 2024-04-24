@@ -201,22 +201,22 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 **SSR 计算服务器连接信息**
 
-SSR WS 1 (RTX 3090 * 2) 
+SSR WS 1 (RTX 3090 * 2)
 - LAN (内网) IP **10.8.14.231**
 - MAC（网卡号）: a4:bb:6d:e0:a7:c0
 - 主要使用者：jiarong, meilin, huaze, xiaosa, ziwu, Zihao(maksim)Ai, huaze
 
-SSR WS 2 (RTX 3090 * 2) 
+SSR WS 2 (RTX 3090 * 2)
 - LAN (内网) IP **10.8.14.161**
 - MAC（网卡号）: a4:bb:6d:d1:6e:2d
 - 主要使用者：zihao
 
-SSR WS 3 (RTX 3090 * 2) 
+SSR WS 3 (RTX 3090 * 2)
 - LAN (内网) IP **10.8.31.70**
 - MAC（网卡号）: b0:7b:25:07:49:04
 - 主要使用者：ziyi, eric, chenchang, Zihao(maksim)Ai
 
-SSR WS 4 (RTX 4090 * 2) 
+SSR WS 4 (RTX 4090 * 2)
 - LAN (内网) IP **10.8.31.188**
 - MAC（网卡号）: fe80::cc1e:c223:e161:1a24%12
 - 主要使用者：huaze
