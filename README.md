@@ -127,7 +127,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 开2C实验室计算集群账户和使用咨询联系张国庆
 
-开SSR小组计算服务器账户和计算服务器使用咨询联系赵子号
+开SSR小组计算服务器账户和计算服务器使用咨询联系吴同
 
 开SSR小组文件存储服务器（NAS）账户和使用咨询联系李嘉荣
 
@@ -141,9 +141,9 @@ Remember, this is a mandatory requirement for all the students in campus while f
 **SSR 计算服务器使用须知**
 
 **「重要」请不要设定简单密码，容易被暴力试错；任何有关公网任务请务必先联系服务器管理员  If you have any question regarding Ubuntu server usage, please contact the server manager**
-- 一年级新生（研一、博一）需要使用服务器的sudo权限请填写[SSR 计算服务器sudo权限申请表](https://docs.qq.com/form/page/DTXVYRmVyUm5uWG1i)，并将填写界面截图微信发送赵子号。
+- 一年级新生（研一、博一）需要使用服务器的sudo权限请填写[SSR 计算服务器sudo权限申请表](https://docs.qq.com/form/page/DTXVYRmVyUm5uWG1i)，并将填写界面截图微信发送吴同。
 
-- 需长时间占用CPU/GPU运行大计算量的任务请微信告知服务器管理员赵子号，许可后方能执行
+- 需长时间占用CPU/GPU运行大计算量的任务请微信告知服务器管理员吴同，许可后方能执行
 
 - 无法预估cpu占用导致影响到他人正常使用的程序，可使用`cpulimit -i -l [物理线程数量*100] [程序指令]`手动限制cpu占用，
 例：`cpulimit -i -l 100 python main.py`，或优化代码，限制线程数；**禁止在任何情况下占满cpu资源，至少留出4个核心保证基础服务运行**
@@ -152,7 +152,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - 由于每台计算服务器最多只支持5人同时使用Ubuntu系统的远程桌面，因此请尽量通过SSH访问，若有特殊需求要使用图形化界面，在浏览器输入服务器IP地址，后面跟 :300，如：**10.8.31.70:300** 使用完毕后记得要注销
 
-- 如需使用指定端口访问某些服务（如Jupyter Notebook）的网页GUI界面，请联系赵子号开通指定端口的访问权限
+- 如需使用指定端口访问某些服务（如Jupyter Notebook）的网页GUI界面，请联系吴同开通指定端口的访问权限
 
 - 数据, 模型和个人文件请放到服务器的大容量机械硬盘阵列内，其挂载点为 **/mnt/HDD/** 
 
@@ -202,7 +202,7 @@ SSR WS 4 (RTX 4090 * 2)
 
 SSR Server 高性能服务器（A6000*4）
 - SSH 访问地址：LAN (内网) IP **10.8.14.159**
-- 进行大规模仿真或训练专用，请私聊赵子号申请使用权限
+- 进行大规模仿真或训练专用，请私聊吴同申请使用权限
 
 ### **Fileserver (SSR NAS)**
 
