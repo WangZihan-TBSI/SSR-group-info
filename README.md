@@ -1,4 +1,4 @@
-# SSR Group Info
+![image](https://github.com/WangZihan-TBSI/SSR-group-info/assets/48622140/e43bc048-da6a-4f58-a414-2766388a30f0)# SSR Group Info
 
 ## **组内信息汇总表 Basic informations**
 [点击查看](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=fqgz1z)小组成员联系方式-设备使用表-值日表-个人组会-书单
@@ -101,7 +101,12 @@ Remember, this is a mandatory requirement for all the students in campus while f
 5. 请勿在实验台堆放杂物（确实有特别的实验需要，如拍摄demo等），需要在会议桌上铺好灰色的橡胶保护垫后才能使用。
 7. 存放化学药品的抽屉或柜子必须上锁，使用化学品需提前一天向赵润泽申请。
 8. 每个实验台的管理人需要负责保持台面整洁，挂板上和抽屉里各种物品的存放位置。这些位置都需要贴上标签或其他明显标识，以完善实验室资产的管理。
-
+   
+**化学品申请流程**
+1. 使用校园网登录https://id.sigs.tsinghua.edu.cn，选择试剂采购向严根梅老师进行申请。
+2. 首选手机号和验证码登录，手机号为院人员信息内登记的手机号。
+3. 联系安全员进行将化学品添加到实验室试剂存储柜。
+   
 ## **无线网络 WiFi Connection**
     SSID: TBSI_SSR_5G / TBSI_SSR_2.4G       
     password: ssrgroup
