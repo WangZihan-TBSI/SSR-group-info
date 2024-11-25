@@ -30,7 +30,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - **登记你的组会出场顺序**
 
-    [点击查看](https://docs.qq.com/sheet/DSEJsbnJacVZYUkV3?tab=jmvent)
+    [点击查看](https://docs.qq.com/sheet/DUFlWektKaVN2akts?tab=BB08J2)
 
 - **挑选文献**
 
@@ -191,7 +191,7 @@ SSR WS 1 (RTX 3090 * 2)
 - 主要使用者：jiarong, meilin, huaze, xiaosa, ziwu, Zihao(maksim)Ai, huaze
 
 SSR WS 2 (RTX 3090 * 2)
-- LAN (内网) IP **10.8.14.161**
+- LAN (内网) IP **10.8.31.112**
 - MAC（网卡号）: a4:bb:6d:d1:6e:2d
 - 主要使用者：zihao
 
