@@ -78,7 +78,7 @@ Remember, this is a mandatory requirement for all the students in campus while f
     正式入学的同学每人每学年有 300元 的科技书籍购买预算，购买流程参考 单笔 1000元以下的物资购买流程。
 
 - **文献分享会餐饮报销 LR Meeting Catering**
-    人均餐费控制在30元，订餐前要和Megan确认是否符合各项规定
+    人均餐费控制在30元，订餐前要和严老师确认是否符合各项规定
     
     订餐流程：
     1. 联系店家进行预定餐食并且支付
