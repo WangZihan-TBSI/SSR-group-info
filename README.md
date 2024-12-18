@@ -79,6 +79,14 @@ Remember, this is a mandatory requirement for all the students in campus while f
 
 - **文献分享会餐饮报销 LR Meeting Catering**
     人均餐费控制在30元，订餐前要和Megan确认是否符合各项规定
+    
+    订餐流程：
+    1. 联系店家进行预定餐食并且支付
+    2. 准备报销材料：
+    - 发票（发票底端签字+学号）
+    - 付款截图
+    - [工作用餐清单](./工作用餐清单.docx)
+    3. 打印报销材料递交到严老师工位左边蓝色材料框内
 
 - **深研院开票抬头**
     1. 单位名称：清华大学深圳国际研究生院
